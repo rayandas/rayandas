@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as an Infrastructure Engineer.
 - 🌱 I’m currently learning about Kubernetes.
 - 💬 Ask me about anything, I'm happy to help!
-- 📝 Read my blogs: Blogs by [Rayan Das](https://raydeeam.wordpress.com/)
+- 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 😄 Pronouns: He/Him
 
 
