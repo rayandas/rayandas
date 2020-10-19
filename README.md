@@ -3,6 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/Rayan_Das-30302f?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rayan-das-843265149/)
 [![twitter badge](https://img.shields.io/badge/@raydeeam-30302f?style=flat-square&logo=twitter)](https://twitter.com/raydeeam)
 [![wordpress badge](https://img.shields.io/badge/Rayan_Das-30302f?style=flat-square&logo=wordpress)](https://raydeeam.wordpress.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=rayandas)
 
 
 - 🔭 I’m currently working as an Infrastructure Engineer.
@@ -10,8 +11,6 @@
 - 💬 Ask me about anything, I'm happy to help!
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 😄 Pronouns: He/Him
-
-![](https://visitor-badge.glitch.me/badge?page_id=kshitij)
 
 
 ![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
