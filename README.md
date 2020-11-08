@@ -20,7 +20,7 @@ I'm [Rayan Das](https://rayandas.in/), a Cloud Infrastructure Engineer 🚀  fro
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as a Cloud Infrastructure Engineer.
-- 🌱 I’m currently learning about Kubernetes(Beginner).
+- 🌱 My interests are in SRE, Kubernetes, Infrastructure and Cloud.
 - 💬 Ask me about anything, I'm happy to help!
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 📝 [Resume](https://rayandas.in/resume)
