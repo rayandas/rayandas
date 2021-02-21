@@ -13,7 +13,7 @@
 
 <br />
 
-I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from India. Beside's programming, I enjoy playing the guitar, photography and traveling.
+I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="500" height="320" />
   
