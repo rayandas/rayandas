@@ -13,14 +13,14 @@
 
 <br />
 
-I'm [Rayan Das](https://rayandas.in/), a Cloud Infrastructure Engineer 🚀  from India. Beside's programming, I enjoy playing the guitar, photography and traveling.
+I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from India. Beside's programming, I enjoy playing the guitar, photography and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a Cloud Infrastructure Engineer.
-- 🌱 My interests are in SRE, Kubernetes, Infrastructure and Cloud.
+- 🔭 I’m currently working as a Site Reliability Engineer.
+- 🌱 My interests are in Systems, Kubernetes, Infrastructure and Cloud.
 - 💬 Ask me about anything, I'm happy to help!
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 😄 Pronouns: He/Him
