@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/rayandas/">
   <img align="left" alt="Rayan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/raydeeam/">
-  <img align="left" alt="Rayan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rayandas)
 
