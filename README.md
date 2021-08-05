@@ -12,7 +12,7 @@
 
 I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="480" height="290" />
   
 **Talking about Personal Stuffs:**
 
@@ -36,7 +36,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-
+<!---
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&count_private=true&line_height=40)
 ![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas)
+-->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&layout=compact" alt="Rayan's most used languages" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&layout=compact" alt="GitHub Stats of Rayan" width="350">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rayandas&theme=default" width="700">
