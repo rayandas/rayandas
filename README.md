@@ -39,4 +39,3 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&count_private=true&line_height=40)
 ![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas)
-![snake gif](https://github.com/rayandas/rayandas/blob/output/github-contribution-grid-snake.gif)
