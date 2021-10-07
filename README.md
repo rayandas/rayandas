@@ -24,17 +24,19 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<p align="left">
+
+
+<img src="https://img.icons8.com/color/2x/python.png" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
+<img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
+<img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
+<img src="https://img.icons8.com/color/2x/terraform.png" alt="Terraform" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/>
+<img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png"  alt="Vim"  width="40"  height="40"/> 
+<img src="https://img.icons8.com/color/2x/amazon-web-services.png"  alt="AWS"  width="40"  height="40"/>
+<img src="https://img.icons8.com/color/2x/google-cloud.png"  alt="GCP"  width="40"  height="40"/>
 
 
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
