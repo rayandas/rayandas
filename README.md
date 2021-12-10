@@ -40,9 +40,15 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
-![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&langs_count=6&layout=compact)
+  
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!---
+![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&langs_count=6&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rayandas&theme=default&layout=compact" width="850">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20" alt="Rayan's most used languages" width="350">
 <img src="https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&layout=compact" alt="GitHub Stats of Rayan" width="350">
