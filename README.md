@@ -45,8 +45,6 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <!---
 ![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&langs_count=6&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rayandas&theme=default&layout=compact" width="850">
