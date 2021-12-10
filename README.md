@@ -44,6 +44,12 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#35531](https://github.com/rancher/rancher/issues/35531) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#1726](https://github.com/cncf/k8s-conformance/pull/1726) in [cncf/k8s-conformance](https://github.com/cncf/k8s-conformance)
+3. 💪 Opened PR [#179](https://github.com/rancher/backup-restore-operator/pull/179) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
+4. 🗣 Commented on [#178](https://github.com/rancher/backup-restore-operator/issues/178) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
+5. 💪 Opened PR [#178](https://github.com/rancher/backup-restore-operator/pull/178) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
+<!--END_SECTION:activity-->
 
 <!---
 ![Rayan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayandas&langs_count=6&layout=compact)
