@@ -22,16 +22,16 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 😄 Pronouns: He/Him
 
-**Languages and Tools:**  
+**I've worked with:**  
 
 <p align="left">
 
 
 <img src="https://img.icons8.com/color/2x/python.png" alt="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
 <img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
 <img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
-<img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
 <img src="https://img.icons8.com/color/2x/terraform.png" alt="Terraform" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/>
 <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png"  alt="Vim"  width="40"  height="40"/> 
@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35478](https://github.com/rancher/rancher/issues/35478) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#766](https://github.com/rancher/kontainer-driver-metadata/pull/766) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 💪 Opened PR [#765](https://github.com/rancher/kontainer-driver-metadata/pull/765) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#240](https://github.com/rancher/hyperkube/pull/240) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 💪 Opened PR [#239](https://github.com/rancher/hyperkube/pull/239) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 💪 Opened PR [#766](https://github.com/rancher/kontainer-driver-metadata/pull/766) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#765](https://github.com/rancher/kontainer-driver-metadata/pull/765) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 💪 Opened PR [#240](https://github.com/rancher/hyperkube/pull/240) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#239](https://github.com/rancher/hyperkube/pull/239) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 💪 Opened PR [#238](https://github.com/rancher/hyperkube/pull/238) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
