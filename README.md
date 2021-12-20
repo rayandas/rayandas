@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#239](https://github.com/rancher/hyperkube/pull/239) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🎉 Merged PR [#240](https://github.com/rancher/hyperkube/pull/240) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 🎉 Merged PR [#238](https://github.com/rancher/hyperkube/pull/238) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 🗣 Commented on [#35478](https://github.com/rancher/rancher/issues/35478) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#766](https://github.com/rancher/kontainer-driver-metadata/pull/766) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 💪 Opened PR [#1](https://github.com/rancher/vsphere-charts/pull/1) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+2. 🎉 Merged PR [#239](https://github.com/rancher/hyperkube/pull/239) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 🎉 Merged PR [#240](https://github.com/rancher/hyperkube/pull/240) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🎉 Merged PR [#238](https://github.com/rancher/hyperkube/pull/238) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 🗣 Commented on [#35478](https://github.com/rancher/rancher/issues/35478) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
