@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rancher/vsphere-charts/issues/1) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
-2. 💪 Opened PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. ❌ Closed PR [#1](https://github.com/rayandas/ingress-nginx/pull/1) in [rayandas/ingress-nginx](https://github.com/rayandas/ingress-nginx)
-4. 💪 Opened PR [#1](https://github.com/rayandas/ingress-nginx/pull/1) in [rayandas/ingress-nginx](https://github.com/rayandas/ingress-nginx)
-5. 🗣 Commented on [#1](https://github.com/rancher/vsphere-charts/issues/1) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+1. 🎉 Merged PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
+2. 💪 Opened PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
+3. 🗣 Commented on [#1](https://github.com/rancher/vsphere-charts/issues/1) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+4. 💪 Opened PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. ❌ Closed PR [#1](https://github.com/rayandas/ingress-nginx/pull/1) in [rayandas/ingress-nginx](https://github.com/rayandas/ingress-nginx)
 <!--END_SECTION:activity-->
 
 <!---
