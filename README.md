@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/rancher/install-docker/issues/83) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 💪 Opened PR [#89](https://github.com/rancher/install-docker/pull/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 🎉 Merged PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
-4. 💪 Opened PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
-5. 🗣 Commented on [#1](https://github.com/rancher/vsphere-charts/issues/1) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+1. 💪 Opened PR [#2787](https://github.com/rancher/rke/pull/2787) in [rancher/rke](https://github.com/rancher/rke)
+2. 🗣 Commented on [#83](https://github.com/rancher/install-docker/issues/83) in [rancher/install-docker](https://github.com/rancher/install-docker)
+3. 💪 Opened PR [#89](https://github.com/rancher/install-docker/pull/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. 🎉 Merged PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
+5. 💪 Opened PR [#1](https://github.com/rayandas/vsphere-charts/pull/1) in [rayandas/vsphere-charts](https://github.com/rayandas/vsphere-charts)
 <!--END_SECTION:activity-->
 
 <!---
