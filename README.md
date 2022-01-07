@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/rancher/hyperkube-base/pull/7) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-2. 🗣 Commented on [#83](https://github.com/rancher/install-docker/issues/83) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#33848](https://github.com/rancher/rancher/issues/33848) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+1. 💪 Opened PR [#246](https://github.com/rancher/hyperkube/pull/246) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 💪 Opened PR [#245](https://github.com/rancher/hyperkube/pull/245) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#244](https://github.com/rancher/hyperkube/pull/244) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#7](https://github.com/rancher/hyperkube-base/pull/7) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+5. 🗣 Commented on [#83](https://github.com/rancher/install-docker/issues/83) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 <!---
