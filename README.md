@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33848](https://github.com/rancher/rancher/issues/33848) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-3. 🎉 Merged PR [#4](https://github.com/rancher/istio-1.5-migration/pull/4) in [rancher/istio-1.5-migration](https://github.com/rancher/istio-1.5-migration)
-4. ❗️ Closed issue [#35705](https://github.com/rancher/rancher/issues/35705) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#89](https://github.com/rancher/install-docker/issues/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
+1. 🗣 Commented on [#83](https://github.com/rancher/install-docker/issues/83) in [rancher/install-docker](https://github.com/rancher/install-docker)
+2. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#33848](https://github.com/rancher/rancher/issues/33848) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+5. 🎉 Merged PR [#4](https://github.com/rancher/istio-1.5-migration/pull/4) in [rancher/istio-1.5-migration](https://github.com/rancher/istio-1.5-migration)
 <!--END_SECTION:activity-->
 
 <!---
