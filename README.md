@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#788](https://github.com/rancher/kontainer-driver-metadata/pull/788) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-2. ❗️ Opened issue [#36087](https://github.com/rancher/rancher/issues/36087) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#8](https://github.com/rancher/hyperkube-base/pull/8) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-4. 🗣 Commented on [#35709](https://github.com/rancher/rancher/issues/35709) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#786](https://github.com/rancher/kontainer-driver-metadata/pull/786) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+2. 💪 Opened PR [#788](https://github.com/rancher/kontainer-driver-metadata/pull/788) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. ❗️ Opened issue [#36087](https://github.com/rancher/rancher/issues/36087) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#8](https://github.com/rancher/hyperkube-base/pull/8) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+5. 🗣 Commented on [#35709](https://github.com/rancher/rancher/issues/35709) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
