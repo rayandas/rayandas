@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❌ Closed PR [#1533](https://github.com/rancher/charts/pull/1533) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#790](https://github.com/rancher/kontainer-driver-metadata/pull/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+1. 🗣 Commented on [#2](https://github.com/rancher/vsphere-charts/issues/2) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+2. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❌ Closed PR [#1533](https://github.com/rancher/charts/pull/1533) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#790](https://github.com/rancher/kontainer-driver-metadata/pull/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
