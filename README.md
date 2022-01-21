@@ -45,10 +45,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#790](https://github.com/rancher/kontainer-driver-metadata/issues/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🎉 Merged PR [#790](https://github.com/rancher/kontainer-driver-metadata/pull/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🗣 Commented on [#2](https://github.com/rancher/vsphere-charts/issues/2) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
-5. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#794](https://github.com/rancher/kontainer-driver-metadata/pull/794) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 🗣 Commented on [#36136](https://github.com/rancher/rancher/issues/36136) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#790](https://github.com/rancher/kontainer-driver-metadata/issues/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 🎉 Merged PR [#790](https://github.com/rancher/kontainer-driver-metadata/pull/790) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
