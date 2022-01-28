@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 💪 Opened PR [#24980](https://github.com/kubernetes/test-infra/pull/24980) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 💪 Opened PR [#24979](https://github.com/kubernetes/test-infra/pull/24979) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. ❗️ Closed issue [#35272](https://github.com/rancher/rancher/issues/35272) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗️ Closed issue [#36087](https://github.com/rancher/rancher/issues/36087) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+4. 🗣 Commented on [#23822](https://github.com/kubernetes/test-infra/issues/23822) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 💪 Opened PR [#24980](https://github.com/kubernetes/test-infra/pull/24980) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 <!---
