@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35031](https://github.com/rancher/rancher/issues/35031) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#35272](https://github.com/rancher/rancher/issues/35272) in [rancher/rancher](https://github.com/rancher/rancher)
 2. 🗣 Commented on [#35031](https://github.com/rancher/rancher/issues/35031) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗️ Closed issue [#33926](https://github.com/rancher/rancher/issues/33926) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#33926](https://github.com/rancher/rancher/issues/33926) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#36087](https://github.com/rancher/rancher/issues/36087) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗️ Closed issue [#35031](https://github.com/rancher/rancher/issues/35031) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#35031](https://github.com/rancher/rancher/issues/35031) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❗️ Closed issue [#33926](https://github.com/rancher/rancher/issues/33926) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
