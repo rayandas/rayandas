@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rayandas/vsphere-charts-1/pull/1) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
-2. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#24980](https://github.com/kubernetes/test-infra/issues/24980) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-5. 🎉 Merged PR [#816](https://github.com/rancher/kontainer-driver-metadata/pull/816) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. ❌ Closed PR [#1](https://github.com/rayandas/vsphere-charts-1/pull/1) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
+2. 💪 Opened PR [#1](https://github.com/rayandas/vsphere-charts-1/pull/1) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
+3. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#24980](https://github.com/kubernetes/test-infra/issues/24980) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
 <!--END_SECTION:activity-->
 
 <!---
