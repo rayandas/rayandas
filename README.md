@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#46](https://github.com/rancher/istio-installer/pull/46) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-3. 🎉 Merged PR [#2](https://github.com/rayandas/vsphere-charts-1/pull/2) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
-4. 💪 Opened PR [#2](https://github.com/rayandas/vsphere-charts-1/pull/2) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
-5. ❌ Closed PR [#1](https://github.com/rayandas/vsphere-charts-1/pull/1) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
+1. 💪 Opened PR [#1721](https://github.com/rancher/charts/pull/1721) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#46](https://github.com/rancher/istio-installer/pull/46) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+4. 🎉 Merged PR [#2](https://github.com/rayandas/vsphere-charts-1/pull/2) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
+5. 💪 Opened PR [#2](https://github.com/rayandas/vsphere-charts-1/pull/2) in [rayandas/vsphere-charts-1](https://github.com/rayandas/vsphere-charts-1)
 <!--END_SECTION:activity-->
 
 <!---
