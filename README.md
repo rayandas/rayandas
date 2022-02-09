@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-2. 🗣 Commented on [#89](https://github.com/rancher/install-docker/issues/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. 💪 Opened PR [#1721](https://github.com/rancher/charts/pull/1721) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+3. 🗣 Commented on [#89](https://github.com/rancher/install-docker/issues/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+5. 💪 Opened PR [#1721](https://github.com/rancher/charts/pull/1721) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
