@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-2. 💪 Opened PR [#81](https://github.com/rancher/ingress-nginx/pull/81) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. ❌ Closed PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 💪 Opened PR [#210](https://github.com/rancher/image-mirror/pull/210) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. ❗️ Opened issue [#43233](https://github.com/moby/moby/issues/43233) in [moby/moby](https://github.com/moby/moby)
+1. 🗣 Commented on [#25249](https://github.com/kubernetes/test-infra/issues/25249) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 💪 Opened PR [#25249](https://github.com/kubernetes/test-infra/pull/25249) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+4. 💪 Opened PR [#81](https://github.com/rancher/ingress-nginx/pull/81) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. ❌ Closed PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 <!--END_SECTION:activity-->
 
 <!---
