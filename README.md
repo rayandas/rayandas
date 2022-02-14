@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 💪 Opened PR [#210](https://github.com/rancher/image-mirror/pull/210) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-3. ❗️ Opened issue [#43233](https://github.com/moby/moby/issues/43233) in [moby/moby](https://github.com/moby/moby)
-4. 🗣 Commented on [#24979](https://github.com/kubernetes/test-infra/issues/24979) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#24980](https://github.com/kubernetes/test-infra/issues/24980) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 💪 Opened PR [#81](https://github.com/rancher/ingress-nginx/pull/81) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. ❌ Closed PR [#80](https://github.com/rancher/ingress-nginx/pull/80) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+3. 💪 Opened PR [#210](https://github.com/rancher/image-mirror/pull/210) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+4. ❗️ Opened issue [#43233](https://github.com/moby/moby/issues/43233) in [moby/moby](https://github.com/moby/moby)
+5. 🗣 Commented on [#24979](https://github.com/kubernetes/test-infra/issues/24979) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 <!---
