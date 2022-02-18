@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1444](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1444) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
-2. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-3. 🗣 Commented on [#25291](https://github.com/kubernetes/test-infra/issues/25291) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#195](https://github.com/rancher/image-mirror/issues/195) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 🗣 Commented on [#3087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#35705](https://github.com/rancher/rancher/issues/35705) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#35704](https://github.com/rancher/rancher/issues/35704) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#1444](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1444) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+5. 🗣 Commented on [#45](https://github.com/rancher/istio-installer/issues/45) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
 <!--END_SECTION:activity-->
 
 <!---
