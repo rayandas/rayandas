@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35704](https://github.com/rancher/rancher/issues/35704) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#92](https://github.com/rancher/install-docker/pull/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 💪 Opened PR [#48](https://github.com/rancher/istio-installer/pull/48) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#35705](https://github.com/rancher/rancher/issues/35705) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#6141](https://github.com/kubernetes-sigs/cluster-api/issues/6141) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#1454](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/issues/1454) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+3. 💪 Opened PR [#1454](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere/pull/1454) in [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+4. 🗣 Commented on [#35704](https://github.com/rancher/rancher/issues/35704) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#92](https://github.com/rancher/install-docker/pull/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 <!---
