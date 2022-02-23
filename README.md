@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#92](https://github.com/rancher/install-docker/issues/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
 2. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#92](https://github.com/rancher/install-docker/issues/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. 💪 Opened PR [#6179](https://github.com/kubernetes-sigs/cluster-api/pull/6179) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#25359](https://github.com/kubernetes/test-infra/issues/25359) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#92](https://github.com/rancher/install-docker/issues/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. 💪 Opened PR [#6179](https://github.com/kubernetes-sigs/cluster-api/pull/6179) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 <!---
