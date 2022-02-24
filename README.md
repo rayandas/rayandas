@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/rancher/install-docker/pull/93) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 🗣 Commented on [#83](https://github.com/rancher/ingress-nginx/issues/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-5. 💪 Opened PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+1. 💪 Opened PR [#50](https://github.com/rancher/istio-installer/pull/50) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+2. 💪 Opened PR [#93](https://github.com/rancher/install-docker/pull/93) in [rancher/install-docker](https://github.com/rancher/install-docker)
+3. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. 🗣 Commented on [#83](https://github.com/rancher/ingress-nginx/issues/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 <!--END_SECTION:activity-->
 
 <!---
