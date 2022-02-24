@@ -44,10 +44,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 🗣 Commented on [#92](https://github.com/rancher/install-docker/issues/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+3. 🗣 Commented on [#83](https://github.com/rancher/ingress-nginx/issues/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+4. 💪 Opened PR [#83](https://github.com/rancher/ingress-nginx/pull/83) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 5. 🗣 Commented on [#92](https://github.com/rancher/install-docker/issues/92) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
