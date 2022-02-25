@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1772](https://github.com/rancher/charts/pull/1772) in [rancher/charts](https://github.com/rancher/charts)
-2. 🎉 Merged PR [#50](https://github.com/rancher/istio-installer/pull/50) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-3. 💪 Opened PR [#50](https://github.com/rancher/istio-installer/pull/50) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. 💪 Opened PR [#93](https://github.com/rancher/install-docker/pull/93) in [rancher/install-docker](https://github.com/rancher/install-docker)
-5. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🎉 Merged PR [#1772](https://github.com/rancher/charts/pull/1772) in [rancher/charts](https://github.com/rancher/charts)
+2. 💪 Opened PR [#1772](https://github.com/rancher/charts/pull/1772) in [rancher/charts](https://github.com/rancher/charts)
+3. 🎉 Merged PR [#50](https://github.com/rancher/istio-installer/pull/50) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+4. 💪 Opened PR [#50](https://github.com/rancher/istio-installer/pull/50) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+5. 💪 Opened PR [#93](https://github.com/rancher/install-docker/pull/93) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 <!---
