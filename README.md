@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/rancher/istio-1.5-migration/pull/5) in [rancher/istio-1.5-migration](https://github.com/rancher/istio-1.5-migration)
-2. 🗣 Commented on [#5](https://github.com/rancher/istio-1.5-migration/issues/5) in [rancher/istio-1.5-migration](https://github.com/rancher/istio-1.5-migration)
-3. 💪 Opened PR [#5](https://github.com/rancher/istio-1.5-migration/pull/5) in [rancher/istio-1.5-migration](https://github.com/rancher/istio-1.5-migration)
-4. 🗣 Commented on [#34615](https://github.com/rancher/rancher/issues/34615) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#1772](https://github.com/rancher/charts/pull/1772) in [rancher/charts](https://github.com/rancher/charts)
+1. ❗️ Closed issue [#35705](https://github.com/rancher/rancher/issues/35705) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#35705](https://github.com/rancher/rancher/issues/35705) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❗️ Closed issue [#35246](https://github.com/rancher/rancher/issues/35246) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❌ Closed PR [#93](https://github.com/rancher/install-docker/pull/93) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 <!---
