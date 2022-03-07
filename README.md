@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/rancher/istio-installer/pull/48) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-2. 🗣 Commented on [#48](https://github.com/rancher/istio-installer/issues/48) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-3. 🗣 Commented on [#34615](https://github.com/rancher/rancher/issues/34615) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#36330](https://github.com/rancher/rancher/issues/36330) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#36159](https://github.com/rancher/rancher/issues/36159) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#36767](https://github.com/rancher/rancher/issues/36767) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#48](https://github.com/rancher/istio-installer/pull/48) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+3. 🗣 Commented on [#48](https://github.com/rancher/istio-installer/issues/48) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+4. 🗣 Commented on [#34615](https://github.com/rancher/rancher/issues/34615) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#36330](https://github.com/rancher/rancher/issues/36330) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
