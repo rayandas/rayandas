@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34615](https://github.com/rancher/rancher/issues/34615) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Opened issue [#3](https://github.com/infracloudio/squad_health/issues/3) in [infracloudio/squad_health](https://github.com/infracloudio/squad_health)
-3. 🗣 Commented on [#36820](https://github.com/rancher/rancher/issues/36820) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#1795](https://github.com/rancher/charts/pull/1795) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#1795](https://github.com/rancher/charts/issues/1795) in [rancher/charts](https://github.com/rancher/charts)
+1. ❗️ Opened issue [#36938](https://github.com/rancher/rancher/issues/36938) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#34615](https://github.com/rancher/rancher/issues/34615) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗️ Opened issue [#3](https://github.com/infracloudio/squad_health/issues/3) in [infracloudio/squad_health](https://github.com/infracloudio/squad_health)
+4. 🗣 Commented on [#36820](https://github.com/rancher/rancher/issues/36820) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#1795](https://github.com/rancher/charts/pull/1795) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
