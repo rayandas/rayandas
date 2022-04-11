@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2900](https://github.com/rancher/rke/pull/2900) in [rancher/rke](https://github.com/rancher/rke)
-2. 🗣 Commented on [#864](https://github.com/rancher/kontainer-driver-metadata/issues/864) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 💪 Opened PR [#1841](https://github.com/rancher/charts/pull/1841) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#229](https://github.com/rancher/image-mirror/pull/229) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 💪 Opened PR [#51](https://github.com/rancher/istio-installer/pull/51) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+1. 🗣 Commented on [#864](https://github.com/rancher/kontainer-driver-metadata/issues/864) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#2900](https://github.com/rancher/rke/pull/2900) in [rancher/rke](https://github.com/rancher/rke)
+3. 🗣 Commented on [#864](https://github.com/rancher/kontainer-driver-metadata/issues/864) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 💪 Opened PR [#1841](https://github.com/rancher/charts/pull/1841) in [rancher/charts](https://github.com/rancher/charts)
+5. 💪 Opened PR [#229](https://github.com/rancher/image-mirror/pull/229) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 <!---
