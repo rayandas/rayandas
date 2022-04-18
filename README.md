@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2900](https://github.com/rancher/rke/issues/2900) in [rancher/rke](https://github.com/rancher/rke)
-2. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#37358](https://github.com/rancher/rancher/pull/37358) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#2903](https://github.com/rancher/rke/pull/2903) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#2903](https://github.com/rancher/rke/pull/2903) in [rancher/rke](https://github.com/rancher/rke)
+1. 💪 Opened PR [#2904](https://github.com/rancher/rke/pull/2904) in [rancher/rke](https://github.com/rancher/rke)
+2. 🗣 Commented on [#2900](https://github.com/rancher/rke/issues/2900) in [rancher/rke](https://github.com/rancher/rke)
+3. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
+4. 💪 Opened PR [#37358](https://github.com/rancher/rancher/pull/37358) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#2903](https://github.com/rancher/rke/pull/2903) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 <!---
