@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#37388](https://github.com/rancher/rancher/issues/37388) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#1841](https://github.com/rancher/charts/issues/1841) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
 3. 🗣 Commented on [#37388](https://github.com/rancher/rancher/issues/37388) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#36985](https://github.com/rancher/rancher/issues/36985) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#37388](https://github.com/rancher/rancher/issues/37388) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#37388](https://github.com/rancher/rancher/issues/37388) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#36985](https://github.com/rancher/rancher/issues/36985) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
