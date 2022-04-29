@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
-2. ❗️ Opened issue [#38592](https://github.com/istio/istio/issues/38592) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#1841](https://github.com/rancher/charts/issues/1841) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#37388](https://github.com/rancher/rancher/issues/37388) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#56](https://github.com/rancher/istio-installer/pull/56) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+2. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
+3. ❗️ Opened issue [#38592](https://github.com/istio/istio/issues/38592) in [istio/istio](https://github.com/istio/istio)
+4. 🗣 Commented on [#1841](https://github.com/rancher/charts/issues/1841) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
