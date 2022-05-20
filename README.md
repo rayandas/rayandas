@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36985](https://github.com/rancher/rancher/issues/36985) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#10](https://github.com/rancher/hyperkube-base/pull/10) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-3. 🎉 Merged PR [#56](https://github.com/rancher/istio-installer/pull/56) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. 🗣 Commented on [#56](https://github.com/rancher/istio-installer/issues/56) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-5. 🎉 Merged PR [#75](https://github.com/rancher/security-scan/pull/75) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#10](https://github.com/rancher/hyperkube-base/issues/10) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+2. 🗣 Commented on [#36985](https://github.com/rancher/rancher/issues/36985) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#10](https://github.com/rancher/hyperkube-base/pull/10) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+4. 🎉 Merged PR [#56](https://github.com/rancher/istio-installer/pull/56) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+5. 🗣 Commented on [#56](https://github.com/rancher/istio-installer/issues/56) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
 <!--END_SECTION:activity-->
 
 <!---
