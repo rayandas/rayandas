@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#35742](https://github.com/rancher/rancher/issues/35742) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#2955](https://github.com/rancher/rke/pull/2955) in [rancher/rke](https://github.com/rancher/rke)
-4. 🗣 Commented on [#10](https://github.com/rancher/hyperkube-base/issues/10) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-5. 🗣 Commented on [#36985](https://github.com/rancher/rancher/issues/36985) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#2955](https://github.com/rancher/rke/issues/2955) in [rancher/rke](https://github.com/rancher/rke)
+2. 🗣 Commented on [#37461](https://github.com/rancher/rancher/issues/37461) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#35742](https://github.com/rancher/rancher/issues/35742) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#2955](https://github.com/rancher/rke/pull/2955) in [rancher/rke](https://github.com/rancher/rke)
+5. 🗣 Commented on [#10](https://github.com/rancher/hyperkube-base/issues/10) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
 <!--END_SECTION:activity-->
 
 <!---
