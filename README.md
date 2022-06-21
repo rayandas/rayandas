@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37620](https://github.com/rancher/rancher/issues/37620) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Closed issue [#38005](https://github.com/rancher/rancher/issues/38005) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#38005](https://github.com/rancher/rancher/issues/38005) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#84](https://github.com/rancher/security-scan/issues/84) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. ❗️ Opened issue [#156](https://github.com/rancher/cis-operator/issues/156) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+1. 🗣 Commented on [#85](https://github.com/rancher/security-scan/issues/85) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🗣 Commented on [#37620](https://github.com/rancher/rancher/issues/37620) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗️ Closed issue [#38005](https://github.com/rancher/rancher/issues/38005) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#38005](https://github.com/rancher/rancher/issues/38005) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#84](https://github.com/rancher/security-scan/issues/84) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
