@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/rancher/security-scan/issues/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🗣 Commented on [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
-3. ❗️ Closed issue [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
-4. ❗️ Opened issue [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
-5. 💪 Opened PR [#88](https://github.com/rancher/security-scan/pull/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#154](https://github.com/rancher/cis-operator/issues/154) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🗣 Commented on [#88](https://github.com/rancher/security-scan/issues/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🗣 Commented on [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. ❗️ Closed issue [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. ❗️ Opened issue [#2](https://github.com/rayandas/uptime/issues/2) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
