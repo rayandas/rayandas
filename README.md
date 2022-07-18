@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/rancher/cis-operator/issues/135) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-2. 🎉 Merged PR [#88](https://github.com/rancher/security-scan/pull/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#88](https://github.com/rancher/security-scan/issues/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🎉 Merged PR [#85](https://github.com/rancher/security-scan/pull/85) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🗣 Commented on [#85](https://github.com/rancher/security-scan/issues/85) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#156](https://github.com/rancher/cis-operator/issues/156) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🗣 Commented on [#155](https://github.com/rancher/cis-operator/issues/155) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 🗣 Commented on [#135](https://github.com/rancher/cis-operator/issues/135) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. 🎉 Merged PR [#88](https://github.com/rancher/security-scan/pull/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🗣 Commented on [#88](https://github.com/rancher/security-scan/issues/88) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
