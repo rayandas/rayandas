@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/rancher/security-scan/pull/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. ❌ Closed PR [#1822](https://github.com/rancher/charts/pull/1822) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
-4. ❌ Closed PR [#1841](https://github.com/rancher/charts/pull/1841) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#1841](https://github.com/rancher/charts/issues/1841) in [rancher/charts](https://github.com/rancher/charts)
+1. 🗣 Commented on [#90](https://github.com/rancher/security-scan/issues/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 💪 Opened PR [#90](https://github.com/rancher/security-scan/pull/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. ❌ Closed PR [#1822](https://github.com/rancher/charts/pull/1822) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#1822](https://github.com/rancher/charts/issues/1822) in [rancher/charts](https://github.com/rancher/charts)
+5. ❌ Closed PR [#1841](https://github.com/rancher/charts/pull/1841) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
