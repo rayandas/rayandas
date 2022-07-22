@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1986](https://github.com/rancher/charts/pull/1986) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#1986](https://github.com/rancher/charts/issues/1986) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#1986](https://github.com/rancher/charts/pull/1986) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#90](https://github.com/rancher/security-scan/issues/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 💪 Opened PR [#90](https://github.com/rancher/security-scan/pull/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#92](https://github.com/rancher/security-scan/pull/92) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🎉 Merged PR [#1986](https://github.com/rancher/charts/pull/1986) in [rancher/charts](https://github.com/rancher/charts)
+3. 🗣 Commented on [#1986](https://github.com/rancher/charts/issues/1986) in [rancher/charts](https://github.com/rancher/charts)
+4. 💪 Opened PR [#1986](https://github.com/rancher/charts/pull/1986) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#90](https://github.com/rancher/security-scan/issues/90) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
