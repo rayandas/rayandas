@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Closed issue [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#103](https://github.com/rancher/install-docker/issues/103) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. ❌ Closed PR [#1](https://github.com/rayandas/install-docker/pull/1) in [rayandas/install-docker](https://github.com/rayandas/install-docker)
-5. 🗣 Commented on [#1](https://github.com/rayandas/install-docker/issues/1) in [rayandas/install-docker](https://github.com/rayandas/install-docker)
+1. 💪 Opened PR [#2025](https://github.com/rancher/charts/pull/2025) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗️ Closed issue [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#103](https://github.com/rancher/install-docker/issues/103) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. ❌ Closed PR [#1](https://github.com/rayandas/install-docker/pull/1) in [rayandas/install-docker](https://github.com/rayandas/install-docker)
 <!--END_SECTION:activity-->
 
 <!---
