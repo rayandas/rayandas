@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#104](https://github.com/rancher/install-docker/issues/104) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 💪 Opened PR [#2025](https://github.com/rancher/charts/pull/2025) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❗️ Closed issue [#36450](https://github.com/rancher/rancher/issues/36450) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❌ Closed PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#2026](https://github.com/rancher/charts/issues/2026) in [rancher/charts](https://github.com/rancher/charts)
+3. 💪 Opened PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#104](https://github.com/rancher/install-docker/issues/104) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. 💪 Opened PR [#2025](https://github.com/rancher/charts/pull/2025) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
