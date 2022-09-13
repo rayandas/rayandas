@@ -45,10 +45,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#104](https://github.com/rancher/install-docker/issues/104) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. ❌ Closed PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#2026](https://github.com/rancher/charts/issues/2026) in [rancher/charts](https://github.com/rancher/charts)
-5. 💪 Opened PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#104](https://github.com/rancher/install-docker/issues/104) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. ❌ Closed PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#2026](https://github.com/rancher/charts/issues/2026) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
