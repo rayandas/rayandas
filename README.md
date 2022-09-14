@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#104](https://github.com/rancher/install-docker/issues/104) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. ❌ Closed PR [#2026](https://github.com/rancher/charts/pull/2026) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#2026](https://github.com/rancher/charts/issues/2026) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#287](https://github.com/rancher/hyperkube/pull/287) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 💪 Opened PR [#286](https://github.com/rancher/hyperkube/pull/286) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#285](https://github.com/rancher/hyperkube/pull/285) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
