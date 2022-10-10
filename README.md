@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/rancher/install-docker/issues/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 💪 Opened PR [#39189](https://github.com/rancher/rancher/pull/39189) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#2119](https://github.com/rancher/charts/issues/2119) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#975](https://github.com/rancher/kontainer-driver-metadata/pull/975) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🎉 Merged PR [#574](https://github.com/rancher/system-charts/pull/574) in [rancher/system-charts](https://github.com/rancher/system-charts)
+2. 🗣 Commented on [#89](https://github.com/rancher/install-docker/issues/89) in [rancher/install-docker](https://github.com/rancher/install-docker)
+3. 💪 Opened PR [#39189](https://github.com/rancher/rancher/pull/39189) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#2119](https://github.com/rancher/charts/issues/2119) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
