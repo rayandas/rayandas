@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2178](https://github.com/rancher/charts/pull/2178) in [rancher/charts](https://github.com/rancher/charts)
-2. 💪 Opened PR [#302](https://github.com/rancher/image-mirror/pull/302) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-3. 💪 Opened PR [#60](https://github.com/rancher/istio-installer/pull/60) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. 💪 Opened PR [#2171](https://github.com/rancher/charts/pull/2171) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#38732](https://github.com/rancher/rancher/issues/38732) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗️ Opened issue [#39397](https://github.com/rancher/rancher/issues/39397) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#2178](https://github.com/rancher/charts/pull/2178) in [rancher/charts](https://github.com/rancher/charts)
+3. 💪 Opened PR [#302](https://github.com/rancher/image-mirror/pull/302) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+4. 💪 Opened PR [#60](https://github.com/rancher/istio-installer/pull/60) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+5. 💪 Opened PR [#2171](https://github.com/rancher/charts/pull/2171) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
