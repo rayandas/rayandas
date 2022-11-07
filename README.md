@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/rancher/vsphere-charts/issues/35) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
-2. 🗣 Commented on [#2190](https://github.com/rancher/charts/issues/2190) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#2190](https://github.com/rancher/charts/pull/2190) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#39443](https://github.com/rancher/rancher/issues/39443) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#39462](https://github.com/rancher/rancher/issues/39462) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#35](https://github.com/rancher/vsphere-charts/issues/35) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+3. 🗣 Commented on [#2190](https://github.com/rancher/charts/issues/2190) in [rancher/charts](https://github.com/rancher/charts)
+4. 💪 Opened PR [#2190](https://github.com/rancher/charts/pull/2190) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#30395](https://github.com/rancher/rancher/issues/30395) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
