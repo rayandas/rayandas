@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2178](https://github.com/rancher/charts/issues/2178) in [rancher/charts](https://github.com/rancher/charts)
-2. 🎉 Merged PR [#1011](https://github.com/rancher/kontainer-driver-metadata/pull/1011) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 💪 Opened PR [#1011](https://github.com/rancher/kontainer-driver-metadata/pull/1011) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🎉 Merged PR [#292](https://github.com/rancher/hyperkube/pull/292) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🎉 Merged PR [#293](https://github.com/rancher/hyperkube/pull/293) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. ❌ Closed PR [#5817](https://github.com/coala/coala/pull/5817) in [coala/coala](https://github.com/coala/coala)
+2. ❌ Closed PR [#1](https://github.com/rayandas/GitPub/pull/1) in [rayandas/GitPub](https://github.com/rayandas/GitPub)
+3. 🗣 Commented on [#2178](https://github.com/rancher/charts/issues/2178) in [rancher/charts](https://github.com/rancher/charts)
+4. 🎉 Merged PR [#1011](https://github.com/rancher/kontainer-driver-metadata/pull/1011) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#1011](https://github.com/rancher/kontainer-driver-metadata/pull/1011) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
