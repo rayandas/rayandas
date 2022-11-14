@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/rancher/istio-installer/pull/60) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-2. 🗣 Commented on [#39462](https://github.com/rancher/rancher/issues/39462) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#35](https://github.com/rancher/vsphere-charts/issues/35) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
-4. 🗣 Commented on [#2190](https://github.com/rancher/charts/issues/2190) in [rancher/charts](https://github.com/rancher/charts)
-5. 💪 Opened PR [#2190](https://github.com/rancher/charts/pull/2190) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#314](https://github.com/rancher/image-mirror/pull/314) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 🎉 Merged PR [#60](https://github.com/rancher/istio-installer/pull/60) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
+3. 🗣 Commented on [#39462](https://github.com/rancher/rancher/issues/39462) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#35](https://github.com/rancher/vsphere-charts/issues/35) in [rancher/vsphere-charts](https://github.com/rancher/vsphere-charts)
+5. 🗣 Commented on [#2190](https://github.com/rancher/charts/issues/2190) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
