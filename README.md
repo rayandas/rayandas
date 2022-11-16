@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/rancher/image-mirror/issues/314) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-2. 🎉 Merged PR [#2178](https://github.com/rancher/charts/pull/2178) in [rancher/charts](https://github.com/rancher/charts)
-3. 🎉 Merged PR [#61](https://github.com/rancher/istio-installer/pull/61) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
-4. ❌ Closed PR [#5817](https://github.com/coala/coala/pull/5817) in [coala/coala](https://github.com/coala/coala)
-5. ❌ Closed PR [#1](https://github.com/rayandas/GitPub/pull/1) in [rayandas/GitPub](https://github.com/rayandas/GitPub)
+1. 🎉 Merged PR [#2183](https://github.com/rancher/charts/pull/2183) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#2183](https://github.com/rancher/charts/issues/2183) in [rancher/charts](https://github.com/rancher/charts)
+3. 🗣 Commented on [#314](https://github.com/rancher/image-mirror/issues/314) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+4. 🎉 Merged PR [#2178](https://github.com/rancher/charts/pull/2178) in [rancher/charts](https://github.com/rancher/charts)
+5. 🎉 Merged PR [#61](https://github.com/rancher/istio-installer/pull/61) in [rancher/istio-installer](https://github.com/rancher/istio-installer)
 <!--END_SECTION:activity-->
 
 <!---
