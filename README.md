@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2222](https://github.com/rancher/charts/pull/2222) in [rancher/charts](https://github.com/rancher/charts)
-2. 🎉 Merged PR [#2183](https://github.com/rancher/charts/pull/2183) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#2183](https://github.com/rancher/charts/issues/2183) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#314](https://github.com/rancher/image-mirror/issues/314) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 🎉 Merged PR [#2178](https://github.com/rancher/charts/pull/2178) in [rancher/charts](https://github.com/rancher/charts)
+1. 🎉 Merged PR [#2222](https://github.com/rancher/charts/pull/2222) in [rancher/charts](https://github.com/rancher/charts)
+2. 💪 Opened PR [#2222](https://github.com/rancher/charts/pull/2222) in [rancher/charts](https://github.com/rancher/charts)
+3. 🎉 Merged PR [#2183](https://github.com/rancher/charts/pull/2183) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#2183](https://github.com/rancher/charts/issues/2183) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#314](https://github.com/rancher/image-mirror/issues/314) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 <!---
