@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Opened issue [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#2274](https://github.com/rancher/charts/pull/2274) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#29](https://github.com/rancher/cis-operator/issues/29) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. ❗️ Closed issue [#144](https://github.com/rancher/cis-operator/issues/144) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+1. 🎉 Merged PR [#103](https://github.com/rancher/security-scan/pull/103) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🗣 Commented on [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗️ Opened issue [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#2274](https://github.com/rancher/charts/pull/2274) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#29](https://github.com/rancher/cis-operator/issues/29) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
 <!--END_SECTION:activity-->
 
 <!---
