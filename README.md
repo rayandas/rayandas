@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2287](https://github.com/rancher/charts/pull/2287) in [rancher/charts](https://github.com/rancher/charts)
-2. 💪 Opened PR [#2286](https://github.com/rancher/charts/pull/2286) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🎉 Merged PR [#103](https://github.com/rancher/security-scan/pull/103) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🗣 Commented on [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗️ Closed issue [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗️ Closed issue [#39948](https://github.com/rancher/rancher/issues/39948) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#2287](https://github.com/rancher/charts/pull/2287) in [rancher/charts](https://github.com/rancher/charts)
+4. 💪 Opened PR [#2286](https://github.com/rancher/charts/pull/2286) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
 
 <!---
