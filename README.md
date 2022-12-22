@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Closed issue [#39948](https://github.com/rancher/rancher/issues/39948) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#2287](https://github.com/rancher/charts/pull/2287) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#2286](https://github.com/rancher/charts/pull/2286) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
+1. ❗️ Opened issue [#175](https://github.com/rancher/cis-operator/issues/175) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. ❗️ Opened issue [#174](https://github.com/rancher/cis-operator/issues/174) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 🗣 Commented on [#138](https://github.com/rancher/cis-operator/issues/138) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. ❗️ Reopened issue [#138](https://github.com/rancher/cis-operator/issues/138) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+5. ❗️ Closed issue [#39947](https://github.com/rancher/rancher/issues/39947) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
