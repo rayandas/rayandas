@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
-2. 🗣 Commented on [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
-3. ❗️ Opened issue [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
-4. ❗️ Closed issue [#3](https://github.com/rayandas/uptime/issues/3) in [rayandas/uptime](https://github.com/rayandas/uptime)
-5. 🗣 Commented on [#3](https://github.com/rayandas/uptime/issues/3) in [rayandas/uptime](https://github.com/rayandas/uptime)
+1. ❗️ Opened issue [#5](https://github.com/rayandas/uptime/issues/5) in [rayandas/uptime](https://github.com/rayandas/uptime)
+2. ❗️ Closed issue [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
+3. 🗣 Commented on [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. ❗️ Opened issue [#4](https://github.com/rayandas/uptime/issues/4) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. ❗️ Closed issue [#3](https://github.com/rayandas/uptime/issues/3) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
