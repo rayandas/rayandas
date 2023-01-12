@@ -46,9 +46,9 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#138](https://github.com/rancher/cis-operator/issues/138) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
 2. 🗣 Commented on [#138](https://github.com/rancher/cis-operator/issues/138) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-3. 💪 Opened PR [#2329](https://github.com/rancher/charts/pull/2329) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#104](https://github.com/rancher/security-scan/pull/104) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🎉 Merged PR [#178](https://github.com/rancher/cis-operator/pull/178) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 🗣 Commented on [#138](https://github.com/rancher/cis-operator/issues/138) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. 💪 Opened PR [#2329](https://github.com/rancher/charts/pull/2329) in [rancher/charts](https://github.com/rancher/charts)
+5. 💪 Opened PR [#104](https://github.com/rancher/security-scan/pull/104) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
