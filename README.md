@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/rancher/ingress-nginx/pull/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 🎉 Merged PR [#299](https://github.com/rancher/hyperkube/pull/299) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 🎉 Merged PR [#301](https://github.com/rancher/hyperkube/pull/301) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 🎉 Merged PR [#300](https://github.com/rancher/hyperkube/pull/300) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🗣 Commented on [#300](https://github.com/rancher/hyperkube/issues/300) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. ❗️ Closed issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+2. 🗣 Commented on [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+3. ❗️ Opened issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 💪 Opened PR [#119](https://github.com/rancher/ingress-nginx/pull/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. 🎉 Merged PR [#299](https://github.com/rancher/hyperkube/pull/299) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
