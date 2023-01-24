@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
-2. ❗️ Closed issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
-3. 🗣 Commented on [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
-4. ❗️ Opened issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
-5. 💪 Opened PR [#119](https://github.com/rancher/ingress-nginx/pull/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+1. 🎉 Merged PR [#179](https://github.com/rancher/cis-operator/pull/179) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
+3. ❗️ Closed issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 🗣 Commented on [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. ❗️ Opened issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
