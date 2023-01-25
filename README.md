@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3982](https://github.com/kubernetes/org/issues/3982) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🎉 Merged PR [#179](https://github.com/rancher/cis-operator/pull/179) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-3. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
-4. ❗️ Closed issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
-5. 🗣 Commented on [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
+1. 🎉 Merged PR [#1061](https://github.com/rancher/kontainer-driver-metadata/pull/1061) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. ❗️ Opened issue [#3982](https://github.com/kubernetes/org/issues/3982) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🎉 Merged PR [#179](https://github.com/rancher/cis-operator/pull/179) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
+5. ❗️ Closed issue [#22](https://github.com/rayandas/uptime/issues/22) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
