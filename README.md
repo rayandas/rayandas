@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1068](https://github.com/rancher/kontainer-driver-metadata/pull/1068) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-2. 🎉 Merged PR [#1061](https://github.com/rancher/kontainer-driver-metadata/pull/1061) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. ❗️ Opened issue [#3982](https://github.com/kubernetes/org/issues/3982) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🎉 Merged PR [#179](https://github.com/rancher/cis-operator/pull/179) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. 🗣 Commented on [#7002](https://github.com/kubernetes/community/issues/7002) in [kubernetes/community](https://github.com/kubernetes/community)
+1. 🗣 Commented on [#1060](https://github.com/rancher/kontainer-driver-metadata/issues/1060) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🗣 Commented on [#119](https://github.com/rancher/ingress-nginx/issues/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+4. 🗣 Commented on [#1062](https://github.com/rancher/kontainer-driver-metadata/issues/1062) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#1068](https://github.com/rancher/kontainer-driver-metadata/pull/1068) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
