@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/rancher/ingress-nginx/pull/120) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 🎉 Merged PR [#119](https://github.com/rancher/ingress-nginx/pull/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. 🎉 Merged PR [#1068](https://github.com/rancher/kontainer-driver-metadata/pull/1068) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🎉 Merged PR [#2333](https://github.com/rancher/charts/pull/2333) in [rancher/charts](https://github.com/rancher/charts)
-5. 🎉 Merged PR [#2334](https://github.com/rancher/charts/pull/2334) in [rancher/charts](https://github.com/rancher/charts)
+1. 🎉 Merged PR [#120](https://github.com/rancher/ingress-nginx/pull/120) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. 💪 Opened PR [#120](https://github.com/rancher/ingress-nginx/pull/120) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+3. 🎉 Merged PR [#119](https://github.com/rancher/ingress-nginx/pull/119) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+4. 🎉 Merged PR [#1068](https://github.com/rancher/kontainer-driver-metadata/pull/1068) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 🎉 Merged PR [#2333](https://github.com/rancher/charts/pull/2333) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
