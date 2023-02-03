@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3159](https://github.com/rancher/rke/pull/3159) in [rancher/rke](https://github.com/rancher/rke)
-2. 🎉 Merged PR [#1062](https://github.com/rancher/kontainer-driver-metadata/pull/1062) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🎉 Merged PR [#1060](https://github.com/rancher/kontainer-driver-metadata/pull/1060) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🗣 Commented on [#1062](https://github.com/rancher/kontainer-driver-metadata/issues/1062) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🗣 Commented on [#125](https://github.com/rancher/cis-operator/issues/125) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+1. 💪 Opened PR [#1072](https://github.com/rancher/kontainer-driver-metadata/pull/1072) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. ❌ Closed PR [#1070](https://github.com/rancher/kontainer-driver-metadata/pull/1070) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. ❌ Closed PR [#1071](https://github.com/rancher/kontainer-driver-metadata/pull/1071) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 💪 Opened PR [#1071](https://github.com/rancher/kontainer-driver-metadata/pull/1071) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#1070](https://github.com/rancher/kontainer-driver-metadata/pull/1070) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
