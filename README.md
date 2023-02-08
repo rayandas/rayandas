@@ -45,10 +45,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🗣 Commented on [#1069](https://github.com/rancher/kontainer-driver-metadata/issues/1069) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🎉 Merged PR [#1070](https://github.com/rancher/kontainer-driver-metadata/pull/1070) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#1071](https://github.com/rancher/kontainer-driver-metadata/pull/1071) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🗣 Commented on [#1069](https://github.com/rancher/kontainer-driver-metadata/issues/1069) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🎉 Merged PR [#1070](https://github.com/rancher/kontainer-driver-metadata/pull/1070) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
