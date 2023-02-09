@@ -44,10 +44,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1374](https://github.com/aquasecurity/kube-bench/issues/1374) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
-2. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🗣 Commented on [#1069](https://github.com/rancher/kontainer-driver-metadata/issues/1069) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🎉 Merged PR [#3159](https://github.com/rancher/rke/pull/3159) in [rancher/rke](https://github.com/rancher/rke)
+2. 🎉 Merged PR [#3163](https://github.com/rancher/rke/pull/3163) in [rancher/rke](https://github.com/rancher/rke)
+3. 🗣 Commented on [#3163](https://github.com/rancher/rke/issues/3163) in [rancher/rke](https://github.com/rancher/rke)
+4. ❗️ Opened issue [#1374](https://github.com/aquasecurity/kube-bench/issues/1374) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
 5. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
