@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1075](https://github.com/rancher/kontainer-driver-metadata/pull/1075) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-2. 💪 Opened PR [#108](https://github.com/rancher/install-docker/pull/108) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 🎉 Merged PR [#3164](https://github.com/rancher/rke/pull/3164) in [rancher/rke](https://github.com/rancher/rke)
-4. 💪 Opened PR [#3164](https://github.com/rancher/rke/pull/3164) in [rancher/rke](https://github.com/rancher/rke)
-5. 🎉 Merged PR [#3159](https://github.com/rancher/rke/pull/3159) in [rancher/rke](https://github.com/rancher/rke)
+1. ❗️ Opened issue [#40508](https://github.com/rancher/rancher/issues/40508) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#1075](https://github.com/rancher/kontainer-driver-metadata/pull/1075) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 💪 Opened PR [#108](https://github.com/rancher/install-docker/pull/108) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. 🎉 Merged PR [#3164](https://github.com/rancher/rke/pull/3164) in [rancher/rke](https://github.com/rancher/rke)
+5. 💪 Opened PR [#3164](https://github.com/rancher/rke/pull/3164) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 <!---
