@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#503](https://github.com/kyverno/policies/pull/503) in [kyverno/policies](https://github.com/kyverno/policies)
-2. 🗣 Commented on [#4780](https://github.com/kubernetes/k8s.io/issues/4780) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🎉 Merged PR [#105](https://github.com/rancher/security-scan/pull/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#5](https://github.com/kyverno/demos/pull/5) in [kyverno/demos](https://github.com/kyverno/demos)
+2. 💪 Opened PR [#6340](https://github.com/kyverno/kyverno/pull/6340) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
+3. 💪 Opened PR [#503](https://github.com/kyverno/policies/pull/503) in [kyverno/policies](https://github.com/kyverno/policies)
+4. 🗣 Commented on [#4780](https://github.com/kubernetes/k8s.io/issues/4780) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+5. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
