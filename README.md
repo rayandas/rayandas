@@ -47,8 +47,8 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 1. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
 2. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
 3. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 💪 Opened PR [#2433](https://github.com/rancher/charts/pull/2433) in [rancher/charts](https://github.com/rancher/charts)
-5. 💪 Opened PR [#2432](https://github.com/rancher/charts/pull/2432) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 💪 Opened PR [#2433](https://github.com/rancher/charts/pull/2433) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
