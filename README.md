@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 💪 Opened PR [#5812](https://github.com/cert-manager/cert-manager/pull/5812) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-3. 💪 Opened PR [#5](https://github.com/kyverno/demos/pull/5) in [kyverno/demos](https://github.com/kyverno/demos)
-4. 💪 Opened PR [#6340](https://github.com/kyverno/kyverno/pull/6340) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-5. 💪 Opened PR [#503](https://github.com/kyverno/policies/pull/503) in [kyverno/policies](https://github.com/kyverno/policies)
+1. 💪 Opened PR [#5429](https://github.com/longhorn/longhorn/pull/5429) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
+2. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 💪 Opened PR [#5812](https://github.com/cert-manager/cert-manager/pull/5812) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+4. 💪 Opened PR [#5](https://github.com/kyverno/demos/pull/5) in [kyverno/demos](https://github.com/kyverno/demos)
+5. 💪 Opened PR [#6340](https://github.com/kyverno/kyverno/pull/6340) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 <!--END_SECTION:activity-->
 
 <!---
