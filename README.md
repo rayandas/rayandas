@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2432](https://github.com/rancher/charts/pull/2432) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#3152](https://github.com/rancher/rke/issues/3152) in [rancher/rke](https://github.com/rancher/rke)
-3. 💪 Opened PR [#1256](https://github.com/longhorn/longhorn-tests/pull/1256) in [longhorn/longhorn-tests](https://github.com/longhorn/longhorn-tests)
-4. 💪 Opened PR [#5429](https://github.com/longhorn/longhorn/pull/5429) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
-5. 🗣 Commented on [#105](https://github.com/rancher/security-scan/issues/105) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#2433](https://github.com/rancher/charts/pull/2433) in [rancher/charts](https://github.com/rancher/charts)
+2. 💪 Opened PR [#2432](https://github.com/rancher/charts/pull/2432) in [rancher/charts](https://github.com/rancher/charts)
+3. 🗣 Commented on [#3152](https://github.com/rancher/rke/issues/3152) in [rancher/rke](https://github.com/rancher/rke)
+4. 💪 Opened PR [#1256](https://github.com/longhorn/longhorn-tests/pull/1256) in [longhorn/longhorn-tests](https://github.com/longhorn/longhorn-tests)
+5. 💪 Opened PR [#5429](https://github.com/longhorn/longhorn/pull/5429) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
 <!--END_SECTION:activity-->
 
 <!---
