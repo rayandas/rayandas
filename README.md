@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2475](https://github.com/rancher/charts/pull/2475) in [rancher/charts](https://github.com/rancher/charts)
-2. 💪 Opened PR [#114](https://github.com/rancher/security-scan/pull/114) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#113](https://github.com/rancher/security-scan/issues/113) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🗣 Commented on [#40718](https://github.com/rancher/rancher/issues/40718) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#113](https://github.com/rancher/security-scan/pull/113) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#113](https://github.com/rancher/security-scan/issues/113) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 💪 Opened PR [#2475](https://github.com/rancher/charts/pull/2475) in [rancher/charts](https://github.com/rancher/charts)
+3. 💪 Opened PR [#114](https://github.com/rancher/security-scan/pull/114) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 🗣 Commented on [#113](https://github.com/rancher/security-scan/issues/113) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🗣 Commented on [#40718](https://github.com/rancher/rancher/issues/40718) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
