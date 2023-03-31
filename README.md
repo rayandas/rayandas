@@ -44,10 +44,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2512](https://github.com/rancher/charts/pull/2512) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#40922](https://github.com/rancher/rancher/issues/40922) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#2475](https://github.com/rancher/charts/pull/2475) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#2475](https://github.com/rancher/charts/issues/2475) in [rancher/charts](https://github.com/rancher/charts)
+1. 🗣 Commented on [#2487](https://github.com/rancher/charts/issues/2487) in [rancher/charts](https://github.com/rancher/charts)
+2. 💪 Opened PR [#2512](https://github.com/rancher/charts/pull/2512) in [rancher/charts](https://github.com/rancher/charts)
+3. 🗣 Commented on [#40922](https://github.com/rancher/rancher/issues/40922) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#2475](https://github.com/rancher/charts/pull/2475) in [rancher/charts](https://github.com/rancher/charts)
 5. 🗣 Commented on [#2475](https://github.com/rancher/charts/issues/2475) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
