@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1415](https://github.com/aquasecurity/kube-bench/pull/1415) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
-2. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#2487](https://github.com/rancher/charts/issues/2487) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#2512](https://github.com/rancher/charts/pull/2512) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#40922](https://github.com/rancher/rancher/issues/40922) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 💪 Opened PR [#1415](https://github.com/aquasecurity/kube-bench/pull/1415) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+3. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 🗣 Commented on [#2487](https://github.com/rancher/charts/issues/2487) in [rancher/charts](https://github.com/rancher/charts)
+5. 💪 Opened PR [#2512](https://github.com/rancher/charts/pull/2512) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
