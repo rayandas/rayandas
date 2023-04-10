@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#190](https://github.com/rancher/cis-operator/issues/190) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-2. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 💪 Opened PR [#1415](https://github.com/aquasecurity/kube-bench/pull/1415) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
-4. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🗣 Commented on [#2487](https://github.com/rancher/charts/issues/2487) in [rancher/charts](https://github.com/rancher/charts)
+1. ❗️ Opened issue [#191](https://github.com/rancher/cis-operator/issues/191) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. ❗️ Opened issue [#190](https://github.com/rancher/cis-operator/issues/190) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 🗣 Commented on [#109](https://github.com/rancher/security-scan/issues/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 💪 Opened PR [#1415](https://github.com/aquasecurity/kube-bench/pull/1415) in [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench)
+5. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
