@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/rancher/cis-operator/issues/191) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-2. 💪 Opened PR [#1116](https://github.com/rancher/kontainer-driver-metadata/pull/1116) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 💪 Opened PR [#1115](https://github.com/rancher/kontainer-driver-metadata/pull/1115) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#310](https://github.com/rancher/hyperkube/pull/310) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 💪 Opened PR [#309](https://github.com/rancher/hyperkube/pull/309) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 🗣 Commented on [#184](https://github.com/rancher/cis-operator/issues/184) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🗣 Commented on [#191](https://github.com/rancher/cis-operator/issues/191) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 💪 Opened PR [#1116](https://github.com/rancher/kontainer-driver-metadata/pull/1116) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 💪 Opened PR [#1115](https://github.com/rancher/kontainer-driver-metadata/pull/1115) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#310](https://github.com/rancher/hyperkube/pull/310) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
