@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/rancher/kubernetes/pull/85) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. 💪 Opened PR [#84](https://github.com/rancher/kubernetes/pull/84) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-3. 💪 Opened PR [#312](https://github.com/rancher/hyperkube/pull/312) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 💪 Opened PR [#311](https://github.com/rancher/hyperkube/pull/311) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🗣 Commented on [#184](https://github.com/rancher/cis-operator/issues/184) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+1. 🗣 Commented on [#309](https://github.com/rancher/hyperkube/issues/309) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 🗣 Commented on [#310](https://github.com/rancher/hyperkube/issues/310) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#85](https://github.com/rancher/kubernetes/pull/85) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+4. 💪 Opened PR [#84](https://github.com/rancher/kubernetes/pull/84) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+5. 💪 Opened PR [#312](https://github.com/rancher/hyperkube/pull/312) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
