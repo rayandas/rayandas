@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120](https://github.com/rancher/security-scan/pull/120) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🎉 Merged PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 💪 Opened PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-5. 🗣 Commented on [#3029](https://github.com/kubernetes/release/issues/3029) in [kubernetes/release](https://github.com/kubernetes/release)
+1. 🎉 Merged PR [#184](https://github.com/rancher/cis-operator/pull/184) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🎉 Merged PR [#111](https://github.com/rancher/security-scan/pull/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🎉 Merged PR [#109](https://github.com/rancher/security-scan/pull/109) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 💪 Opened PR [#120](https://github.com/rancher/security-scan/pull/120) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
