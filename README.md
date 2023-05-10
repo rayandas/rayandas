@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🎉 Merged PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. 💪 Opened PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 🗣 Commented on [#3029](https://github.com/kubernetes/release/issues/3029) in [kubernetes/release](https://github.com/kubernetes/release)
-5. 💪 Opened PR [#3029](https://github.com/kubernetes/release/pull/3029) in [kubernetes/release](https://github.com/kubernetes/release)
+1. 💪 Opened PR [#120](https://github.com/rancher/security-scan/pull/120) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🗣 Commented on [#111](https://github.com/rancher/security-scan/issues/111) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🎉 Merged PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+4. 💪 Opened PR [#121](https://github.com/rancher/ingress-nginx/pull/121) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. 🗣 Commented on [#3029](https://github.com/kubernetes/release/issues/3029) in [kubernetes/release](https://github.com/kubernetes/release)
 <!--END_SECTION:activity-->
 
 <!---
