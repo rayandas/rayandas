@@ -45,10 +45,10 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#393](https://github.com/rancher/image-mirror/issues/393) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-2. 💪 Opened PR [#2627](https://github.com/rancher/charts/pull/2627) in [rancher/charts](https://github.com/rancher/charts)
-3. ❗️ Opened issue [#41557](https://github.com/rancher/rancher/issues/41557) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#392](https://github.com/rancher/image-mirror/pull/392) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 🗣 Commented on [#390](https://github.com/rancher/image-mirror/issues/390) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 🗣 Commented on [#393](https://github.com/rancher/image-mirror/issues/393) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+3. 💪 Opened PR [#2627](https://github.com/rancher/charts/pull/2627) in [rancher/charts](https://github.com/rancher/charts)
+4. ❗️ Opened issue [#41557](https://github.com/rancher/rancher/issues/41557) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#392](https://github.com/rancher/image-mirror/pull/392) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 <!---
