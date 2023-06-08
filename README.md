@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3260](https://github.com/rancher/rke/pull/3260) in [rancher/rke](https://github.com/rancher/rke)
-2. 💪 Opened PR [#3249](https://github.com/rancher/rke/pull/3249) in [rancher/rke](https://github.com/rancher/rke)
-3. 🎉 Merged PR [#2665](https://github.com/rancher/charts/pull/2665) in [rancher/charts](https://github.com/rancher/charts)
-4. 🚀 Published release [v0.2.12-rc2](https://github.com/v0.2.12-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🎉 Merged PR [#121](https://github.com/rancher/security-scan/pull/121) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#29722](https://github.com/kubernetes/test-infra/issues/29722) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 💪 Opened PR [#3260](https://github.com/rancher/rke/pull/3260) in [rancher/rke](https://github.com/rancher/rke)
+3. 💪 Opened PR [#3249](https://github.com/rancher/rke/pull/3249) in [rancher/rke](https://github.com/rancher/rke)
+4. 🎉 Merged PR [#2665](https://github.com/rancher/charts/pull/2665) in [rancher/charts](https://github.com/rancher/charts)
+5. 🚀 Published release [v0.2.12-rc2](https://github.com/v0.2.12-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
