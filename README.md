@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41131](https://github.com/rancher/rancher/issues/41131) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#41851](https://github.com/rancher/rancher/issues/41851) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#90](https://github.com/rancher/kubernetes/pull/90) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-4. 🗣 Commented on [#29722](https://github.com/kubernetes/test-infra/issues/29722) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 💪 Opened PR [#3260](https://github.com/rancher/rke/pull/3260) in [rancher/rke](https://github.com/rancher/rke)
+1. 💪 Opened PR [#116](https://github.com/rancher/install-docker/pull/116) in [rancher/install-docker](https://github.com/rancher/install-docker)
+2. 🗣 Commented on [#41131](https://github.com/rancher/rancher/issues/41131) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#41851](https://github.com/rancher/rancher/issues/41851) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#90](https://github.com/rancher/kubernetes/pull/90) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+5. 🗣 Commented on [#29722](https://github.com/kubernetes/test-infra/issues/29722) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 <!---
