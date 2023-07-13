@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/rancher/security-scan/issues/120) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🗣 Commented on [#112](https://github.com/rancher/security-scan/issues/112) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#41886](https://github.com/rancher/rancher/issues/41886) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#120](https://github.com/rancher/security-scan/pull/120#issuecomment-1632390432) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🗣 Commented on [#112](https://github.com/rancher/security-scan/pull/112#issuecomment-1630597495) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🗣 Commented on [#41886](https://github.com/rancher/rancher/issues/41886#issuecomment-1629056676) in [rancher/rancher](https://github.com/rancher/rancher)
 4. 💪 Opened PR [#117](https://github.com/rancher/install-docker/pull/117) in [rancher/install-docker](https://github.com/rancher/install-docker)
-5. 🚀 Published release [v0.2.13-rc2](https://github.com/v0.2.13-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🚀 Published release [v0.2.13-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.13-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
