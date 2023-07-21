@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42087](https://github.com/rancher/rancher/pull/42087) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#120](https://github.com/rancher/security-scan/pull/120#issuecomment-1632390432) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🗣 Commented on [#112](https://github.com/rancher/security-scan/pull/112#issuecomment-1630597495) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🗣 Commented on [#41886](https://github.com/rancher/rancher/issues/41886#issuecomment-1629056676) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#117](https://github.com/rancher/install-docker/pull/117) in [rancher/install-docker](https://github.com/rancher/install-docker)
+1. 🗣 Commented on [#7401](https://github.com/kubernetes/community/issues/7401#issuecomment-1645785018) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 💪 Opened PR [#42087](https://github.com/rancher/rancher/pull/42087) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#120](https://github.com/rancher/security-scan/pull/120#issuecomment-1632390432) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 🗣 Commented on [#112](https://github.com/rancher/security-scan/pull/112#issuecomment-1630597495) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🗣 Commented on [#41886](https://github.com/rancher/rancher/issues/41886#issuecomment-1629056676) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
