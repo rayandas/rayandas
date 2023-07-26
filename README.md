@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/rayandas/uptime/issues/23) in [rayandas/uptime](https://github.com/rayandas/uptime)
-2. 🗣 Commented on [#41787](https://github.com/rancher/rancher/issues/41787#issuecomment-1651378037) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#119567](https://github.com/kubernetes/kubernetes/issues/119567#issuecomment-1650717317) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#7401](https://github.com/kubernetes/community/issues/7401#issuecomment-1645785018) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 💪 Opened PR [#42087](https://github.com/rancher/rancher/pull/42087) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🔒 Closed issue [#23](https://github.com/rayandas/uptime/issues/23) in [rayandas/uptime](https://github.com/rayandas/uptime)
+2. 🗣 Commented on [#23](https://github.com/rayandas/uptime/issues/23#issuecomment-1651581546) in [rayandas/uptime](https://github.com/rayandas/uptime)
+3. ❗ Opened issue [#23](https://github.com/rayandas/uptime/issues/23) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 🗣 Commented on [#41787](https://github.com/rancher/rancher/issues/41787#issuecomment-1651378037) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#119567](https://github.com/kubernetes/kubernetes/issues/119567#issuecomment-1650717317) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 <!---
