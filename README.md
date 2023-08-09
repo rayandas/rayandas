@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/rancher/security-scan/pull/151) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 💪 Opened PR [#435](https://github.com/rancher/image-mirror/pull/435) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-3. ❗ Opened issue [#42357](https://github.com/rancher/rancher/issues/42357) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#151](https://github.com/rancher/security-scan/pull/151) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. ❗ Opened issue [#42337](https://github.com/rancher/rancher/issues/42337) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#41886](https://github.com/rancher/rancher/issues/41886#issuecomment-1671593060) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#151](https://github.com/rancher/security-scan/pull/151) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 💪 Opened PR [#435](https://github.com/rancher/image-mirror/pull/435) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+4. ❗ Opened issue [#42357](https://github.com/rancher/rancher/issues/42357) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#151](https://github.com/rancher/security-scan/pull/151) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
