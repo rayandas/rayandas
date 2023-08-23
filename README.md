@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/rancher/kubernetes/pull/100) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. 🗣 Commented on [#325](https://github.com/rancher/hyperkube/pull/325#issuecomment-1688735284) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 💪 Opened PR [#1205](https://github.com/rancher/kontainer-driver-metadata/pull/1205) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#125](https://github.com/rancher/ingress-nginx/pull/125) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-5. 💪 Opened PR [#449](https://github.com/rancher/image-mirror/pull/449) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+1. 🚀 Published release [v1.5.0-rc1](https://github.com/rancher/rke/releases/tag/v1.5.0-rc1) in [rancher/rke](https://github.com/rancher/rke)
+2. 🚀 Published release [v1.4.10-rc1](https://github.com/rancher/rke/releases/tag/v1.4.10-rc1) in [rancher/rke](https://github.com/rancher/rke)
+3. 💪 Opened PR [#100](https://github.com/rancher/kubernetes/pull/100) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+4. 🗣 Commented on [#325](https://github.com/rancher/hyperkube/pull/325#issuecomment-1688735284) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 💪 Opened PR [#1205](https://github.com/rancher/kontainer-driver-metadata/pull/1205) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
