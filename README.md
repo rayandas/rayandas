@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42501](https://github.com/rancher/rancher/issues/42501#issuecomment-1690138261) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#3342](https://github.com/rancher/rke/pull/3342) in [rancher/rke](https://github.com/rancher/rke)
-3. ❌ Closed PR [#42509](https://github.com/rancher/rancher/pull/42509) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#42509](https://github.com/rancher/rancher/pull/42509) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🔒 Closed issue [#41131](https://github.com/rancher/rancher/issues/41131) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#325](https://github.com/rancher/hyperkube/pull/325#issuecomment-1690227116) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 🗣 Commented on [#42501](https://github.com/rancher/rancher/issues/42501#issuecomment-1690138261) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#3342](https://github.com/rancher/rke/pull/3342) in [rancher/rke](https://github.com/rancher/rke)
+4. ❌ Closed PR [#42509](https://github.com/rancher/rancher/pull/42509) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#42509](https://github.com/rancher/rancher/pull/42509) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
