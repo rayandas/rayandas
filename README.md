@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/rancher/hyperkube/pull/325) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🚀 Published release [v1.5.0-rc2](https://github.com/rancher/rke/releases/tag/v1.5.0-rc2) in [rancher/rke](https://github.com/rancher/rke)
-3. 🎉 Merged PR [#125](https://github.com/rancher/ingress-nginx/pull/125) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 🚀 Published release [v1.5.0-rc1](https://github.com/rancher/rke/releases/tag/v1.5.0-rc1) in [rancher/rke](https://github.com/rancher/rke)
-5. 🗣 Commented on [#5276](https://github.com/kubernetes-sigs/kustomize/issues/5276#issuecomment-1690275317) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 🚀 Published release [nginx-1.8.1-rancher1](https://github.com/rancher/ingress-nginx/releases/tag/nginx-1.8.1-rancher1) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. 💪 Opened PR [#3344](https://github.com/rancher/rke/pull/3344) in [rancher/rke](https://github.com/rancher/rke)
+3. 🎉 Merged PR [#325](https://github.com/rancher/hyperkube/pull/325) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🚀 Published release [v1.5.0-rc2](https://github.com/rancher/rke/releases/tag/v1.5.0-rc2) in [rancher/rke](https://github.com/rancher/rke)
+5. 🎉 Merged PR [#125](https://github.com/rancher/ingress-nginx/pull/125) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 <!--END_SECTION:activity-->
 
 <!---
