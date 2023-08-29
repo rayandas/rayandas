@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1205](https://github.com/rancher/kontainer-driver-metadata/pull/1205#issuecomment-1697904846) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-2. 🔒 Closed issue [#192](https://github.com/rancher/cis-operator/issues/192) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-3. 🗣 Commented on [#192](https://github.com/rancher/cis-operator/issues/192#issuecomment-1697880339) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-4. 🗣 Commented on [#192](https://github.com/rancher/cis-operator/issues/192#issuecomment-1697879067) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. 🗣 Commented on [#1204](https://github.com/rancher/kontainer-driver-metadata/pull/1204#issuecomment-1697252954) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🗣 Commented on [#1205](https://github.com/rancher/kontainer-driver-metadata/pull/1205#issuecomment-1698156698) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#349](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern/pull/349) in [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern)
+3. 🗣 Commented on [#1205](https://github.com/rancher/kontainer-driver-metadata/pull/1205#issuecomment-1697904846) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 🔒 Closed issue [#192](https://github.com/rancher/cis-operator/issues/192) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+5. 🗣 Commented on [#192](https://github.com/rancher/cis-operator/issues/192#issuecomment-1697880339) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
 <!--END_SECTION:activity-->
 
 <!---
