@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42590](https://github.com/rancher/rancher/issues/42590) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🚀 Published release [v1.27.5-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.5-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 🎉 Merged PR [#1211](https://github.com/rancher/kontainer-driver-metadata/pull/1211) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#456](https://github.com/rancher/image-mirror/pull/456) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 🗣 Commented on [#155](https://github.com/rancher/security-scan/pull/155#issuecomment-1698917458) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🗣 Commented on [#42590](https://github.com/rancher/rancher/issues/42590#issuecomment-1699355823) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗ Opened issue [#42590](https://github.com/rancher/rancher/issues/42590) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🚀 Published release [v1.27.5-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.5-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🎉 Merged PR [#1211](https://github.com/rancher/kontainer-driver-metadata/pull/1211) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#456](https://github.com/rancher/image-mirror/pull/456) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 <!---
