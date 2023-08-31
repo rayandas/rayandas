@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#456](https://github.com/rancher/image-mirror/pull/456#issuecomment-1699385723) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-2. 🗣 Commented on [#42590](https://github.com/rancher/rancher/issues/42590#issuecomment-1699355823) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗ Opened issue [#42590](https://github.com/rancher/rancher/issues/42590) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🚀 Published release [v1.27.5-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.5-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🎉 Merged PR [#1211](https://github.com/rancher/kontainer-driver-metadata/pull/1211) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🗣 Commented on [#1206](https://github.com/rancher/kontainer-driver-metadata/pull/1206#issuecomment-1700423234) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. ❌ Closed PR [#3249](https://github.com/rancher/rke/pull/3249) in [rancher/rke](https://github.com/rancher/rke)
+3. 🗣 Commented on [#3249](https://github.com/rancher/rke/pull/3249#issuecomment-1700398990) in [rancher/rke](https://github.com/rancher/rke)
+4. 🗣 Commented on [#456](https://github.com/rancher/image-mirror/pull/456#issuecomment-1699385723) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+5. 🗣 Commented on [#42590](https://github.com/rancher/rancher/issues/42590#issuecomment-1699355823) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
