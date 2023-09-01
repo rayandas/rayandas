@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0-rc3](https://github.com/rancher/rke/releases/tag/v1.5.0-rc3) in [rancher/rke](https://github.com/rancher/rke)
-2. 🎉 Merged PR [#3344](https://github.com/rancher/rke/pull/3344) in [rancher/rke](https://github.com/rancher/rke)
-3. 🗣 Commented on [#119567](https://github.com/kubernetes/kubernetes/issues/119567#issuecomment-1702241033) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🎉 Merged PR [#1206](https://github.com/rancher/kontainer-driver-metadata/pull/1206) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#1204](https://github.com/rancher/kontainer-driver-metadata/pull/1204) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🗣 Commented on [#2839](https://github.com/rancher/charts/pull/2839#issuecomment-1703203790) in [rancher/charts](https://github.com/rancher/charts)
+2. 🚀 Published release [v1.5.0-rc3](https://github.com/rancher/rke/releases/tag/v1.5.0-rc3) in [rancher/rke](https://github.com/rancher/rke)
+3. 🎉 Merged PR [#3344](https://github.com/rancher/rke/pull/3344) in [rancher/rke](https://github.com/rancher/rke)
+4. 🗣 Commented on [#119567](https://github.com/kubernetes/kubernetes/issues/119567#issuecomment-1702241033) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🎉 Merged PR [#1206](https://github.com/rancher/kontainer-driver-metadata/pull/1206) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 <!---
