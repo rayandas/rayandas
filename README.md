@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.6-rc3-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-rc3-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-2. 🚀 Published release [v0.3.6-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-3. 🚀 Published release [v0.3.6-rancher1](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-rancher1) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-4. 🚀 Published release [v0.3.6-deadlockrevert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlockrevert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-5. 🚀 Published release [v0.3.6-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+1. 💪 Opened PR [#2975](https://github.com/rancher/charts/pull/2975) in [rancher/charts](https://github.com/rancher/charts)
+2. 🚀 Published release [v0.3.6-rc3-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-rc3-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+3. 🚀 Published release [v0.3.6-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+4. 🚀 Published release [v0.3.6-rancher1](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-rancher1) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+5. 🚀 Published release [v0.3.6-deadlockrevert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlockrevert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
 <!--END_SECTION:activity-->
 
 <!---
