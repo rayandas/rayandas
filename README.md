@@ -44,11 +44,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.27.5](https://github.com/rancher/dynamiclistener/releases/tag/v1.27.5) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-2. 🚀 Published release [rancher-1.27-rc1](https://github.com/rancher/dynamiclistener/releases/tag/rancher-1.27-rc1) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-3. 🚀 Published release [v1.5.0-rc5](https://github.com/rancher/rke/releases/tag/v1.5.0-rc5) in [rancher/rke](https://github.com/rancher/rke)
-4. 🎉 Merged PR [#3357](https://github.com/rancher/rke/pull/3357) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#3357](https://github.com/rancher/rke/pull/3357) in [rancher/rke](https://github.com/rancher/rke)
+1. 🚀 Published release [v0.3.6-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+2. 🗣 Commented on [#269](https://github.com/rancher/aks-operator/issues/269#issuecomment-1714958963) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 🚀 Published release [v1.27.5](https://github.com/rancher/dynamiclistener/releases/tag/v1.27.5) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+4. 🚀 Published release [rancher-1.27-rc1](https://github.com/rancher/dynamiclistener/releases/tag/rancher-1.27-rc1) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+5. 🚀 Published release [v1.5.0-rc5](https://github.com/rancher/rke/releases/tag/v1.5.0-rc5) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 <!---
