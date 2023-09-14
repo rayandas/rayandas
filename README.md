@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2963](https://github.com/rancher/charts/pull/2963#issuecomment-1717949234) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#5315](https://github.com/kubernetes-sigs/kustomize/pull/5315#issuecomment-1716947202) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 💪 Opened PR [#2975](https://github.com/rancher/charts/pull/2975) in [rancher/charts](https://github.com/rancher/charts)
-4. 🚀 Published release [v0.3.6-rc3-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-rc3-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-5. 🚀 Published release [v0.3.6-deadlock-fix-revert](https://github.com/rancher/dynamiclistener/releases/tag/v0.3.6-deadlock-fix-revert) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+1. 🗣 Commented on [#454](https://github.com/rancher/image-mirror/pull/454#issuecomment-1718772060) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. ❌ Closed PR [#435](https://github.com/rancher/image-mirror/pull/435) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+3. 🔒 Closed issue [#42357](https://github.com/rancher/rancher/issues/42357) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#42357](https://github.com/rancher/rancher/issues/42357#issuecomment-1718770067) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#2963](https://github.com/rancher/charts/pull/2963#issuecomment-1717949234) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
