@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/rancher/rke-tools/pull/171) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 💪 Opened PR [#10](https://github.com/rancher/confd/pull/10) in [rancher/confd](https://github.com/rancher/confd)
-3. 💪 Opened PR [#112](https://github.com/rancher/kubernetes/pull/112) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-4. 💪 Opened PR [#111](https://github.com/rancher/kubernetes/pull/111) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-5. 🗣 Commented on [#5294](https://github.com/kubernetes-sigs/kustomize/pull/5294#issuecomment-1721739361) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 🗣 Commented on [#171](https://github.com/rancher/rke-tools/pull/171#issuecomment-1725406557) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+2. 💪 Opened PR [#171](https://github.com/rancher/rke-tools/pull/171) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+3. 💪 Opened PR [#10](https://github.com/rancher/confd/pull/10) in [rancher/confd](https://github.com/rancher/confd)
+4. 💪 Opened PR [#112](https://github.com/rancher/kubernetes/pull/112) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+5. 💪 Opened PR [#111](https://github.com/rancher/kubernetes/pull/111) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 <!--END_SECTION:activity-->
 
 <!---
