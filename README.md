@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.16.5-rc2](https://github.com/rancher/confd/releases/tag/v0.16.5-rc2) in [rancher/confd](https://github.com/rancher/confd)
-2. 🎉 Merged PR [#171](https://github.com/rancher/rke-tools/pull/171) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-3. 🎉 Merged PR [#10](https://github.com/rancher/confd/pull/10) in [rancher/confd](https://github.com/rancher/confd)
-4. 🎉 Merged PR [#121](https://github.com/rancher/system-agent/pull/121) in [rancher/system-agent](https://github.com/rancher/system-agent)
-5. 🗣 Commented on [#10](https://github.com/rancher/confd/pull/10#issuecomment-1727699007) in [rancher/confd](https://github.com/rancher/confd)
+1. 🗣 Commented on [#5303](https://github.com/kubernetes-sigs/kustomize/pull/5303#issuecomment-1728858541) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. 🚀 Published release [v0.16.5-rc2](https://github.com/rancher/confd/releases/tag/v0.16.5-rc2) in [rancher/confd](https://github.com/rancher/confd)
+3. 🎉 Merged PR [#171](https://github.com/rancher/rke-tools/pull/171) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+4. 🎉 Merged PR [#10](https://github.com/rancher/confd/pull/10) in [rancher/confd](https://github.com/rancher/confd)
+5. 🎉 Merged PR [#121](https://github.com/rancher/system-agent/pull/121) in [rancher/system-agent](https://github.com/rancher/system-agent)
 <!--END_SECTION:activity-->
 
 <!---
