@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 💪 Opened PR [#385](https://github.com/rancher/backup-restore-operator/pull/385) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
-3. 🗣 Commented on [#5303](https://github.com/kubernetes-sigs/kustomize/pull/5303#issuecomment-1728858541) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-4. 🚀 Published release [v0.16.5-rc2](https://github.com/rancher/confd/releases/tag/v0.16.5-rc2) in [rancher/confd](https://github.com/rancher/confd)
-5. 🎉 Merged PR [#171](https://github.com/rancher/rke-tools/pull/171) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+1. 🚀 Published release [v0.3.4-rc1](https://github.com/rancher/system-agent/releases/tag/v0.3.4-rc1) in [rancher/system-agent](https://github.com/rancher/system-agent)
+2. 💪 Opened PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+3. 💪 Opened PR [#385](https://github.com/rancher/backup-restore-operator/pull/385) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
+4. 🗣 Commented on [#5303](https://github.com/kubernetes-sigs/kustomize/pull/5303#issuecomment-1728858541) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+5. 🚀 Published release [v0.16.5-rc2](https://github.com/rancher/confd/releases/tag/v0.16.5-rc2) in [rancher/confd](https://github.com/rancher/confd)
 <!--END_SECTION:activity-->
 
 <!---
