@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42915](https://github.com/rancher/rancher/pull/42915) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🚀 Published release [v0.1.93](https://github.com/rancher/rke-tools/releases/tag/v0.1.93) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-3. 🎉 Merged PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-4. 🚀 Published release [v0.3.4-rc1](https://github.com/rancher/system-agent/releases/tag/v0.3.4-rc1) in [rancher/system-agent](https://github.com/rancher/system-agent)
-5. 💪 Opened PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+1. 🗣 Commented on [#329](https://github.com/rancher/hyperkube/pull/329#issuecomment-1730880302) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 🚀 Published release [v1.26.9-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.26.9-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 🚀 Published release [v1.27.6-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.6-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🎉 Merged PR [#328](https://github.com/rancher/hyperkube/pull/328) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 🎉 Merged PR [#327](https://github.com/rancher/hyperkube/pull/327) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
