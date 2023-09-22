@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 🚀 Published release [v0.3.4-rc1](https://github.com/rancher/system-agent/releases/tag/v0.3.4-rc1) in [rancher/system-agent](https://github.com/rancher/system-agent)
-3. 💪 Opened PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-4. 💪 Opened PR [#385](https://github.com/rancher/backup-restore-operator/pull/385) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
-5. 🗣 Commented on [#5303](https://github.com/kubernetes-sigs/kustomize/pull/5303#issuecomment-1728858541) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 💪 Opened PR [#42915](https://github.com/rancher/rancher/pull/42915) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🚀 Published release [v0.1.93](https://github.com/rancher/rke-tools/releases/tag/v0.1.93) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+3. 🎉 Merged PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+4. 🚀 Published release [v0.3.4-rc1](https://github.com/rancher/system-agent/releases/tag/v0.3.4-rc1) in [rancher/system-agent](https://github.com/rancher/system-agent)
+5. 💪 Opened PR [#173](https://github.com/rancher/rke-tools/pull/173) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
 <!--END_SECTION:activity-->
 
 <!---
