@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1040](https://github.com/kubernetes/enhancements/issues/1040#issuecomment-1731752574) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 💪 Opened PR [#18](https://github.com/rancher/hyperkube-base/pull/18) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-3. 🗣 Commented on [#329](https://github.com/rancher/hyperkube/pull/329#issuecomment-1730880302) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 🚀 Published release [v1.26.9-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.26.9-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🚀 Published release [v1.27.6-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.6-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 🎉 Merged PR [#329](https://github.com/rancher/hyperkube/pull/329) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 🗣 Commented on [#1040](https://github.com/kubernetes/enhancements/issues/1040#issuecomment-1731752574) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 💪 Opened PR [#18](https://github.com/rancher/hyperkube-base/pull/18) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+4. 🗣 Commented on [#329](https://github.com/rancher/hyperkube/pull/329#issuecomment-1730880302) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 🚀 Published release [v1.26.9-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.26.9-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 <!---
