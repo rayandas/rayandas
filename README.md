@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42915](https://github.com/rancher/rancher/pull/42915#issuecomment-1736643701) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#4222](https://github.com/kubernetes/enhancements/issues/4222#issuecomment-1736231795) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#2395](https://github.com/kubernetes/enhancements/issues/2395#issuecomment-1736220356) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#4205](https://github.com/kubernetes/enhancements/issues/4205#issuecomment-1736162702) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#2400](https://github.com/kubernetes/enhancements/issues/2400#issuecomment-1736151111) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 💪 Opened PR [#3066](https://github.com/rancher/charts/pull/3066) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#42915](https://github.com/rancher/rancher/pull/42915#issuecomment-1736643701) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#4222](https://github.com/kubernetes/enhancements/issues/4222#issuecomment-1736231795) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#2395](https://github.com/kubernetes/enhancements/issues/2395#issuecomment-1736220356) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#4205](https://github.com/kubernetes/enhancements/issues/4205#issuecomment-1736162702) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 <!---
