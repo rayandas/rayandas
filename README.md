@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5347](https://github.com/kubernetes-sigs/kustomize/issues/5347) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-2. 🎉 Merged PR [#3066](https://github.com/rancher/charts/pull/3066) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#2593](https://github.com/kubernetes/enhancements/issues/2593#issuecomment-1737906595) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 💪 Opened PR [#3066](https://github.com/rancher/charts/pull/3066) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#42915](https://github.com/rancher/rancher/pull/42915#issuecomment-1736643701) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#5347](https://github.com/kubernetes-sigs/kustomize/issues/5347#issuecomment-1739756768) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. ❗ Opened issue [#5347](https://github.com/kubernetes-sigs/kustomize/issues/5347) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+3. 🎉 Merged PR [#3066](https://github.com/rancher/charts/pull/3066) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#2593](https://github.com/kubernetes/enhancements/issues/2593#issuecomment-1737906595) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 💪 Opened PR [#3066](https://github.com/rancher/charts/pull/3066) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
