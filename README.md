@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#332](https://github.com/rancher/hyperkube/pull/332) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 💪 Opened PR [#331](https://github.com/rancher/hyperkube/pull/331) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 💪 Opened PR [#330](https://github.com/rancher/hyperkube/pull/330) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. ❗ Opened issue [#43127](https://github.com/rancher/rancher/issues/43127) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#43084](https://github.com/rancher/rancher/pull/43084) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗ Opened issue [#43130](https://github.com/rancher/rancher/issues/43130) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#332](https://github.com/rancher/hyperkube/pull/332) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#331](https://github.com/rancher/hyperkube/pull/331) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#330](https://github.com/rancher/hyperkube/pull/330) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. ❗ Opened issue [#43127](https://github.com/rancher/rancher/issues/43127) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
