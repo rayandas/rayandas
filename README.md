@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5412](https://github.com/kubernetes-sigs/kustomize/pull/5412#issuecomment-1779786781) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-2. 🗣 Commented on [#5276](https://github.com/kubernetes-sigs/kustomize/issues/5276#issuecomment-1779774350) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 🗣 Commented on [#5412](https://github.com/kubernetes-sigs/kustomize/pull/5412#issuecomment-1779758521) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-4. ❗ Opened issue [#43268](https://github.com/rancher/rancher/issues/43268) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❗ Opened issue [#43153](https://github.com/rancher/rancher/issues/43153) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#5326](https://github.com/kubernetes-sigs/kustomize/pull/5326#issuecomment-1779850302) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. 🗣 Commented on [#5412](https://github.com/kubernetes-sigs/kustomize/pull/5412#issuecomment-1779786781) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+3. 🗣 Commented on [#5276](https://github.com/kubernetes-sigs/kustomize/issues/5276#issuecomment-1779774350) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+4. 🗣 Commented on [#5412](https://github.com/kubernetes-sigs/kustomize/pull/5412#issuecomment-1779758521) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+5. ❗ Opened issue [#43268](https://github.com/rancher/rancher/issues/43268) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
