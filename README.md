@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43153](https://github.com/rancher/rancher/issues/43153) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#43152](https://github.com/rancher/rancher/issues/43152) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#43130](https://github.com/rancher/rancher/issues/43130#issuecomment-1761019875) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#43130](https://github.com/rancher/rancher/issues/43130#issuecomment-1761017958) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❗ Opened issue [#43130](https://github.com/rancher/rancher/issues/43130) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗ Opened issue [#43268](https://github.com/rancher/rancher/issues/43268) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗ Opened issue [#43153](https://github.com/rancher/rancher/issues/43153) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#43152](https://github.com/rancher/rancher/issues/43152) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#43130](https://github.com/rancher/rancher/issues/43130#issuecomment-1761019875) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#43130](https://github.com/rancher/rancher/issues/43130#issuecomment-1761017958) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 <!---
