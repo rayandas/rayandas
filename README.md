@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/rancher/backup-restore-operator/pull/385#issuecomment-1788362128) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
-2. 🗣 Commented on [#3488](https://github.com/kubernetes/enhancements/issues/3488#issuecomment-1784182868) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#4247](https://github.com/kubernetes/enhancements/issues/4247#issuecomment-1784181196) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#4222](https://github.com/kubernetes/enhancements/issues/4222#issuecomment-1784179381) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#2395](https://github.com/kubernetes/enhancements/issues/2395#issuecomment-1784175988) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. ❗ Opened issue [#43362](https://github.com/rancher/rancher/issues/43362) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#385](https://github.com/rancher/backup-restore-operator/pull/385#issuecomment-1788362128) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
+3. 🗣 Commented on [#3488](https://github.com/kubernetes/enhancements/issues/3488#issuecomment-1784182868) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#4247](https://github.com/kubernetes/enhancements/issues/4247#issuecomment-1784181196) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#4222](https://github.com/kubernetes/enhancements/issues/4222#issuecomment-1784179381) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 <!---
