@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/rancher/security-scan/pull/166#issuecomment-1797800758) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. 🗣 Commented on [#167](https://github.com/rancher/security-scan/pull/167#issuecomment-1794527467) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. ❗ Opened issue [#43362](https://github.com/rancher/rancher/issues/43362) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#385](https://github.com/rancher/backup-restore-operator/pull/385#issuecomment-1788362128) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
-5. 🗣 Commented on [#3488](https://github.com/kubernetes/enhancements/issues/3488#issuecomment-1784182868) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. ❗ Opened issue [#233](https://github.com/rancher/cis-operator/issues/233) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. 🗣 Commented on [#166](https://github.com/rancher/security-scan/pull/166#issuecomment-1797800758) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. 🗣 Commented on [#167](https://github.com/rancher/security-scan/pull/167#issuecomment-1794527467) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. ❗ Opened issue [#43362](https://github.com/rancher/rancher/issues/43362) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#385](https://github.com/rancher/backup-restore-operator/pull/385#issuecomment-1788362128) in [rancher/backup-restore-operator](https://github.com/rancher/backup-restore-operator)
 <!--END_SECTION:activity-->
 
 <!---
