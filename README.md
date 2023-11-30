@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#171](https://github.com/rancher/security-scan/pull/171) in [rancher/security-scan](https://github.com/rancher/security-scan)
-2. ❗ Opened issue [#233](https://github.com/rancher/cis-operator/issues/233) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-3. 🗣 Commented on [#166](https://github.com/rancher/security-scan/pull/166#issuecomment-1797800758) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🗣 Commented on [#167](https://github.com/rancher/security-scan/pull/167#issuecomment-1794527467) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. ❗ Opened issue [#43362](https://github.com/rancher/rancher/issues/43362) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#2377](https://github.com/kubernetes/sig-release/issues/2377#issuecomment-1833482794) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 💪 Opened PR [#171](https://github.com/rancher/security-scan/pull/171) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. ❗ Opened issue [#233](https://github.com/rancher/cis-operator/issues/233) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. 🗣 Commented on [#166](https://github.com/rancher/security-scan/pull/166#issuecomment-1797800758) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🗣 Commented on [#167](https://github.com/rancher/security-scan/pull/167#issuecomment-1794527467) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 <!---
