@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43710](https://github.com/rancher/rancher/issues/43710) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#43159](https://github.com/rancher/rancher/issues/43159#issuecomment-1842073400) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#2377](https://github.com/kubernetes/sig-release/issues/2377#issuecomment-1833482794) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#166](https://github.com/rancher/security-scan/pull/166#issuecomment-1797800758) in [rancher/security-scan](https://github.com/rancher/security-scan)
-5. 🗣 Commented on [#167](https://github.com/rancher/security-scan/pull/167#issuecomment-1794527467) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 🚀 Published release [v0.2.14-rc1](https://github.com/rancher/security-scan/releases/tag/v0.2.14-rc1) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🎉 Merged PR [#171](https://github.com/rancher/security-scan/pull/171) in [rancher/security-scan](https://github.com/rancher/security-scan)
+3. ❗ Opened issue [#43710](https://github.com/rancher/rancher/issues/43710) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#43159](https://github.com/rancher/rancher/issues/43159#issuecomment-1842073400) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#2377](https://github.com/kubernetes/sig-release/issues/2377#issuecomment-1833482794) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 <!---
