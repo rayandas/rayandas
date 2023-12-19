@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3273](https://github.com/rancher/charts/pull/3273) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#3272](https://github.com/rancher/charts/pull/3272#issuecomment-1860055783) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#3273](https://github.com/rancher/charts/pull/3273) in [rancher/charts](https://github.com/rancher/charts)
-4. ❗ Opened issue [#241](https://github.com/rancher/cis-operator/issues/241) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. 💪 Opened PR [#3272](https://github.com/rancher/charts/pull/3272) in [rancher/charts](https://github.com/rancher/charts)
+1. 🗣 Commented on [#18](https://github.com/rancher/hyperkube-base/pull/18#issuecomment-1862203587) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+2. ❌ Closed PR [#18](https://github.com/rancher/hyperkube-base/pull/18) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+3. 🎉 Merged PR [#3272](https://github.com/rancher/charts/pull/3272) in [rancher/charts](https://github.com/rancher/charts)
+4. 🎉 Merged PR [#3273](https://github.com/rancher/charts/pull/3273) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#3272](https://github.com/rancher/charts/pull/3272#issuecomment-1860055783) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
