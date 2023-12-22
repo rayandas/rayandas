@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/rancher/hyperkube-base/pull/18#issuecomment-1862203587) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-2. ❌ Closed PR [#18](https://github.com/rancher/hyperkube-base/pull/18) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-3. 🎉 Merged PR [#3272](https://github.com/rancher/charts/pull/3272) in [rancher/charts](https://github.com/rancher/charts)
-4. 🎉 Merged PR [#3273](https://github.com/rancher/charts/pull/3273) in [rancher/charts](https://github.com/rancher/charts)
-5. 🗣 Commented on [#3272](https://github.com/rancher/charts/pull/3272#issuecomment-1860055783) in [rancher/charts](https://github.com/rancher/charts)
+1. 🗣 Commented on [#27](https://github.com/rayandas/uptime/issues/27#issuecomment-1867230156) in [rayandas/uptime](https://github.com/rayandas/uptime)
+2. 🔒 Closed issue [#27](https://github.com/rayandas/uptime/issues/27) in [rayandas/uptime](https://github.com/rayandas/uptime)
+3. 🗣 Commented on [#26](https://github.com/rayandas/uptime/issues/26#issuecomment-1867230130) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 🔒 Closed issue [#26](https://github.com/rayandas/uptime/issues/26) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. ❗ Opened issue [#27](https://github.com/rayandas/uptime/issues/27) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
