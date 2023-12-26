@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/rayandas/uptime/issues/27#issuecomment-1867230156) in [rayandas/uptime](https://github.com/rayandas/uptime)
-2. 🔒 Closed issue [#27](https://github.com/rayandas/uptime/issues/27) in [rayandas/uptime](https://github.com/rayandas/uptime)
-3. 🗣 Commented on [#26](https://github.com/rayandas/uptime/issues/26#issuecomment-1867230130) in [rayandas/uptime](https://github.com/rayandas/uptime)
-4. 🔒 Closed issue [#26](https://github.com/rayandas/uptime/issues/26) in [rayandas/uptime](https://github.com/rayandas/uptime)
-5. ❗ Opened issue [#27](https://github.com/rayandas/uptime/issues/27) in [rayandas/uptime](https://github.com/rayandas/uptime)
+1. 💪 Opened PR [#3286](https://github.com/rancher/charts/pull/3286) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#27](https://github.com/rayandas/uptime/issues/27#issuecomment-1867230156) in [rayandas/uptime](https://github.com/rayandas/uptime)
+3. 🔒 Closed issue [#27](https://github.com/rayandas/uptime/issues/27) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 🗣 Commented on [#26](https://github.com/rayandas/uptime/issues/26#issuecomment-1867230130) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. 🔒 Closed issue [#26](https://github.com/rayandas/uptime/issues/26) in [rayandas/uptime](https://github.com/rayandas/uptime)
 <!--END_SECTION:activity-->
 
 <!---
