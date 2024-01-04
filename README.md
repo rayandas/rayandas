@@ -46,11 +46,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43905](https://github.com/rancher/rancher/issues/43905) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❌ Closed PR [#2625](https://github.com/rancher/charts/pull/2625) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#43905](https://github.com/rancher/rancher/issues/43905#issuecomment-1876291221) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#43905](https://github.com/rancher/rancher/issues/43905) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#174](https://github.com/rancher/security-scan/pull/174) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. ❗ Opened issue [#250](https://github.com/rancher/cis-operator/issues/250) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+2. ❗ Opened issue [#249](https://github.com/rancher/cis-operator/issues/249) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. ❗ Opened issue [#248](https://github.com/rancher/cis-operator/issues/248) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+4. 🔒 Closed issue [#43905](https://github.com/rancher/rancher/issues/43905) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❌ Closed PR [#2625](https://github.com/rancher/charts/pull/2625) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 <!---
