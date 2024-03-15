@@ -38,10 +38,12 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 <img src="https://img.icons8.com/color/2x/amazon-web-services.png"  alt="AWS"  width="40"  height="40"/>
 <img src="https://img.icons8.com/color/2x/google-cloud.png"  alt="GCP"  width="40"  height="40"/>
 
+![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
 <!---
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
---->
+=============
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&line_height=20&width=300" alt="Rayan's GitHub stats" /></a>
+--->
   
 ### :zap: Recent Activity
 
