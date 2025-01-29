@@ -50,11 +50,11 @@ I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from In
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#250](https://github.com/rancher/cis-operator/issues/250) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-2. ❗ Opened issue [#249](https://github.com/rancher/cis-operator/issues/249) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-3. ❗ Opened issue [#248](https://github.com/rancher/cis-operator/issues/248) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-4. 🔒 Closed issue [#43905](https://github.com/rancher/rancher/issues/43905) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❌ Closed PR [#2625](https://github.com/rancher/charts/pull/2625) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#7713](https://github.com/kubernetes/k8s.io/pull/7713) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 💪 Opened PR [#49530](https://github.com/kubernetes/website/pull/49530) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#2715](https://github.com/kubernetes/sig-release/pull/2715) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2714](https://github.com/kubernetes/sig-release/pull/2714#issuecomment-2605545326) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🗣 Commented on [#2714](https://github.com/kubernetes/sig-release/pull/2714#issuecomment-2605541289) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 <!---
