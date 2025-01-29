@@ -10,13 +10,13 @@
 
 <br />
 
-I'm [Rayan Das](https://rayandas.in/), a Site Reliability Engineer 🚀  from India. Besides programming, I enjoy playing the guitar, photography and traveling.
+I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy playing the travelling, and photography.
 
   <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="380" height="250" />
   
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a Site Reliability Engineer.
+- 🔭 Currently working as a Senior Platform Engineer at DigitalOcean.
 - 🌱 My interests are in Systems, Kubernetes, Infrastructure and Cloud.
 - 💬 Ask me about anything, I'm happy to help!
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
