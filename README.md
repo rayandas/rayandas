@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#61](https://github.com/pythonindia/inpycon2021-tasks/issues/61) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
-2. 🔒 Closed issue [#62](https://github.com/pythonindia/inpycon2021-tasks/issues/62) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
-3. 🔒 Closed issue [#64](https://github.com/pythonindia/inpycon2021-tasks/issues/64) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
-4. 🔒 Closed issue [#65](https://github.com/pythonindia/inpycon2021-tasks/issues/65) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
-5. 🔒 Closed issue [#66](https://github.com/pythonindia/inpycon2021-tasks/issues/66) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
+1. 💪 Opened PR [#5386](https://github.com/kubernetes/org/pull/5386) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🔒 Closed issue [#61](https://github.com/pythonindia/inpycon2021-tasks/issues/61) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
+3. 🔒 Closed issue [#62](https://github.com/pythonindia/inpycon2021-tasks/issues/62) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
+4. 🔒 Closed issue [#64](https://github.com/pythonindia/inpycon2021-tasks/issues/64) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
+5. 🔒 Closed issue [#65](https://github.com/pythonindia/inpycon2021-tasks/issues/65) in [pythonindia/inpycon2021-tasks](https://github.com/pythonindia/inpycon2021-tasks)
 <!--END_SECTION:activity-->
 
 <!---
