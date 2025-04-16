@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50501](https://github.com/kubernetes/website/pull/50501) in [kubernetes/website](https://github.com/kubernetes/website)
-2. 💪 Opened PR [#2762](https://github.com/kubernetes/sig-release/pull/2762) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 💪 Opened PR [#50478](https://github.com/kubernetes/website/pull/50478) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#49453](https://github.com/kubernetes/website/pull/49453#issuecomment-2790420549) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#49831](https://github.com/kubernetes/website/pull/49831#issuecomment-2788911614) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#50501](https://github.com/kubernetes/website/pull/50501#issuecomment-2808463868) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 💪 Opened PR [#50501](https://github.com/kubernetes/website/pull/50501) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 💪 Opened PR [#2762](https://github.com/kubernetes/sig-release/pull/2762) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 💪 Opened PR [#50478](https://github.com/kubernetes/website/pull/50478) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#49453](https://github.com/kubernetes/website/pull/49453#issuecomment-2790420549) in [kubernetes/website](https://github.com/kubernetes/website)
 <!--END_SECTION:activity-->
 
 <!---
