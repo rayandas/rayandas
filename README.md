@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2762](https://github.com/kubernetes/sig-release/pull/2762#issuecomment-2819257591) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 💪 Opened PR [#50574](https://github.com/kubernetes/website/pull/50574) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#131148](https://github.com/kubernetes/kubernetes/issues/131148#issuecomment-2818098644) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#50501](https://github.com/kubernetes/website/pull/50501#issuecomment-2815650282) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 💪 Opened PR [#50529](https://github.com/kubernetes/website/pull/50529) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#2762](https://github.com/kubernetes/sig-release/pull/2762#issuecomment-2819390986) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 💪 Opened PR [#2769](https://github.com/kubernetes/sig-release/pull/2769) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2762](https://github.com/kubernetes/sig-release/pull/2762#issuecomment-2819257591) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 💪 Opened PR [#50574](https://github.com/kubernetes/website/pull/50574) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🗣 Commented on [#131148](https://github.com/kubernetes/kubernetes/issues/131148#issuecomment-2818098644) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 <!---
