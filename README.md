@@ -10,7 +10,7 @@
 
 <br />
 
-I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy playing the travelling, and photography.
+I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy travelling, and photography.
 
   <img align="right" alt="GIF" src="https://github.com/rayandas/rayandas/blob/master/code.gif?raw=true" width="380" height="250" />
   
