@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/pythonindia/inpycon2025-tasks/issues/81) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-2. 💪 Opened PR [#5566](https://github.com/kubernetes/org/pull/5566) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#34716](https://github.com/kubernetes/test-infra/pull/34716#issuecomment-2829252363) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#34716](https://github.com/kubernetes/test-infra/pull/34716#issuecomment-2829251700) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#50587](https://github.com/kubernetes/website/issues/50587#issuecomment-2825218625) in [kubernetes/website](https://github.com/kubernetes/website)
+1. 🗣 Commented on [#82](https://github.com/pythonindia/inpycon2025-tasks/issues/82#issuecomment-2904753456) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+2. ❗ Opened issue [#81](https://github.com/pythonindia/inpycon2025-tasks/issues/81) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+3. 💪 Opened PR [#5566](https://github.com/kubernetes/org/pull/5566) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#34716](https://github.com/kubernetes/test-infra/pull/34716#issuecomment-2829252363) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#34716](https://github.com/kubernetes/test-infra/pull/34716#issuecomment-2829251700) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 <!---
