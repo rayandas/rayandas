@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2945160921) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-2. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2931695104) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-3. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2931693753) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-4. ❗ Opened issue [#103](https://github.com/pythonindia/inpycon2025/issues/103) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
-5. ❗ Opened issue [#103](https://github.com/pythonindia/inpycon2025-tasks/issues/103) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+1. ❗ Opened issue [#126](https://github.com/pythonindia/inpycon2025-tasks/issues/126) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+2. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2945160921) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+3. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2931695104) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+4. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2931693753) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+5. ❗ Opened issue [#103](https://github.com/pythonindia/inpycon2025/issues/103) in [pythonindia/inpycon2025](https://github.com/pythonindia/inpycon2025)
 <!--END_SECTION:activity-->
 
 <!---
