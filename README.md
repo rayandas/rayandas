@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3695](https://github.com/kubernetes/enhancements/issues/3695#issuecomment-2967207282) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#3973](https://github.com/kubernetes/enhancements/issues/3973#issuecomment-2967192516) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#5381](https://github.com/kubernetes/enhancements/issues/5381#issuecomment-2967164998) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#4817](https://github.com/kubernetes/enhancements/issues/4817#issuecomment-2967147928) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#4205](https://github.com/kubernetes/enhancements/issues/4205#issuecomment-2967128337) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. ❗ Opened issue [#145](https://github.com/pythonindia/inpycon2025-tasks/issues/145) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+2. ❗ Opened issue [#144](https://github.com/pythonindia/inpycon2025-tasks/issues/144) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+3. 🗣 Commented on [#3695](https://github.com/kubernetes/enhancements/issues/3695#issuecomment-2967207282) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#3973](https://github.com/kubernetes/enhancements/issues/3973#issuecomment-2967192516) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#5381](https://github.com/kubernetes/enhancements/issues/5381#issuecomment-2967164998) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 <!---
