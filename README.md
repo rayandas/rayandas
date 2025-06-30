@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/pythonindia/inpycon2025-tasks/issues/158#issuecomment-3013280956) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-2. 🗣 Commented on [#151](https://github.com/pythonindia/inpycon2025-tasks/issues/151#issuecomment-3011868393) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-3. 🔒 Closed issue [#151](https://github.com/pythonindia/inpycon2025-tasks/issues/151) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-4. ❗ Opened issue [#158](https://github.com/pythonindia/inpycon2025-tasks/issues/158) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
-5. 🗣 Commented on [#111](https://github.com/pythonindia/inpycon2025-tasks/issues/111#issuecomment-2994370474) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+1. 🗣 Commented on [#158](https://github.com/pythonindia/inpycon2025-tasks/issues/158#issuecomment-3018107271) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+2. 🔒 Closed issue [#158](https://github.com/pythonindia/inpycon2025-tasks/issues/158) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+3. 🗣 Commented on [#158](https://github.com/pythonindia/inpycon2025-tasks/issues/158#issuecomment-3013280956) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+4. 🗣 Commented on [#151](https://github.com/pythonindia/inpycon2025-tasks/issues/151#issuecomment-3011868393) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
+5. 🔒 Closed issue [#151](https://github.com/pythonindia/inpycon2025-tasks/issues/151) in [pythonindia/inpycon2025-tasks](https://github.com/pythonindia/inpycon2025-tasks)
 <!--END_SECTION:activity-->
 
 <!---
