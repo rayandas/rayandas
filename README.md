@@ -50,11 +50,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2929](https://github.com/kubernetes/sig-release/issues/2929#issuecomment-3689774906) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#33](https://github.com/rayandas/uptime/issues/33#issuecomment-3685207875) in [rayandas/uptime](https://github.com/rayandas/uptime)
-3. 🔒 Closed issue [#33](https://github.com/rayandas/uptime/issues/33) in [rayandas/uptime](https://github.com/rayandas/uptime)
-4. 🗣 Commented on [#5325](https://github.com/kubernetes/enhancements/issues/5325#issuecomment-3666981707) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#5304](https://github.com/kubernetes/enhancements/issues/5304#issuecomment-3666980216) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#2934](https://github.com/kubernetes/sig-release/issues/2934#issuecomment-3723067748) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+2. 🗣 Commented on [#2929](https://github.com/kubernetes/sig-release/issues/2929#issuecomment-3689774906) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#33](https://github.com/rayandas/uptime/issues/33#issuecomment-3685207875) in [rayandas/uptime](https://github.com/rayandas/uptime)
+4. 🔒 Closed issue [#33](https://github.com/rayandas/uptime/issues/33) in [rayandas/uptime](https://github.com/rayandas/uptime)
+5. 🗣 Commented on [#5325](https://github.com/kubernetes/enhancements/issues/5325#issuecomment-3666981707) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
 
 <!---
