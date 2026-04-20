@@ -22,22 +22,6 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 - 📝 Read my blogs: Blogs by [Rayan Das](https://rayandas.in/blogs)
 - 😄 Pronouns: He/Him
 
-**I've worked with:**  
-
-<p align="left">
-
-
-<img src="https://img.icons8.com/color/2x/python.png" alt="Python" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/golang.png" alt="GoLang" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/kubernetes.png"/ alt="Kubernetes" width="40" height="40">
-<img src="https://img.icons8.com/color/2x/linux.png"/ alt="Linux" width="40" height="40">
-<img src="https://img.icons8.com/fluent/2x/docker.png"/ alt="Docker" width="40" height="40">
-<img src="https://img.icons8.com/color/2x/terraform.png" alt="Terraform" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/git.png"  alt="Git"  width="40"  height="40"/>
-<img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/vim-icon.png"  alt="Vim"  width="40"  height="40"/> 
-<img src="https://img.icons8.com/color/2x/amazon-web-services.png"  alt="AWS"  width="40"  height="40"/>
-<img src="https://img.icons8.com/color/2x/google-cloud.png"  alt="GCP"  width="40"  height="40"/>
-
 <!---
 ![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayandas&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=20&width="300")
 
