@@ -34,11 +34,11 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🎉 Merged PR [#3023](https://github.com/kubernetes/sig-release/pull/3023) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 2. ℹ️ Labeled issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. ℹ️ Assigned issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. ❗ Opened issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 💪 Opened PR [#3023](https://github.com/kubernetes/sig-release/pull/3023) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. ℹ️ Labeled issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. ℹ️ Assigned issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. ❗ Opened issue [#3039](https://github.com/kubernetes/sig-release/issues/3039) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
 
 <!---
