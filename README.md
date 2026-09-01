@@ -34,7 +34,7 @@ I'm Rayan Das, a Senior Platform Engineer 🚀 from India. Besides tech, I enjoy
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2371](https://github.com/kubernetes/enhancements/issues/2371#issuecomment-4643744029) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#3086](https://github.com/kubernetes/sig-release/issues/3086#issuecomment-5489320634) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 2. 🗣 Commented on [#2570](https://github.com/kubernetes/enhancements/issues/2570#issuecomment-4643731216) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 3. 🗣 Commented on [#4006](https://github.com/kubernetes/enhancements/issues/4006#issuecomment-4643721593) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 4. 🗣 Commented on [#4192](https://github.com/kubernetes/enhancements/issues/4192#issuecomment-4643708316) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
